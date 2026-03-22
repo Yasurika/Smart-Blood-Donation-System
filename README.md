@@ -5,12 +5,11 @@ The Smart Blood Donation System is a full-stack application built with Next.js (
 ## Features
 
 - User authentication (login/register) with role-based dashboards (donor/hospital/admin)
-
-- Donor profile, eligibility questionnaire, and appointment booking
-- Hospital dashboard with stock tracking, requests, and campaign management
+- Donor profiles, eligibility questionnaires, and appointment booking
+- Hospital dashboards with stock tracking, requests, and campaign management
 - Real-time blood heatmap and analytics
-- AI chatbot for blood donation Q&A
-- Audit logs, notification center, and badge progression system
+- AI-powered chatbot for blood donation Q&A
+- Comprehensive audit logs, notification center, and badge progression system
 
 ## Tech stack
 

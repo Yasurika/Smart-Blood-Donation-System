@@ -1,0 +1,1345 @@
+[
+  {
+    "id": 1,
+    "category": "general",
+    "keywords": [
+      "what is smartblood",
+      "smartblood",
+      "about",
+      "platform",
+      "system"
+    ],
+    "question": "What is SmartBlood?",
+    "answer": "SmartBlood is an AI-driven web platform designed to bridge the gap between blood donors, hospitals, and blood banks in Sri Lanka. It replaces manual, paper-based systems with a real-time, intelligent digital ecosystem for blood donation management, emergency blood dispatch, smart appointments, stock forecasting, and donor engagement."
+  },
+  {
+    "id": 2,
+    "category": "general",
+    "keywords": [
+      "features",
+      "what can",
+      "do",
+      "capabilities",
+      "functions",
+      "modules"
+    ],
+    "question": "What features does SmartBlood offer?",
+    "answer": "SmartBlood offers 8 key modules:\n\n1. **AI Smart Eligibility Engine** — Conversational health check with eligibility scoring\n2. **Emergency Blood Dispatch** — Uber-like geo-spatial donor matching\n3. **Smart Appointments** — Automated slot booking with wait-time prediction\n4. **Blood Stock Dashboard** — Real-time inventory with AI forecasting\n5. **Gamified Donor Profile** — XP system, badges, and leaderboard\n6. **Hospital Exchange Network** — Hospital-to-hospital blood transfers\n7. **Automated Reports** — PDF generation for analytics\n8. **Campaign Manager** — Blood drive events with QR fast-pass"
+  },
+  {
+    "id": 3,
+    "category": "general",
+    "keywords": [
+      "who can use",
+      "users",
+      "roles",
+      "donor",
+      "hospital",
+      "admin"
+    ],
+    "question": "Who can use SmartBlood?",
+    "answer": "SmartBlood supports three main user roles:\n\n• **Donors** — Individuals who want to donate blood, track their history, earn badges, and respond to emergency requests.\n• **Hospitals/Blood Banks** — Healthcare facilities that manage blood stock, create requests, schedule appointments, and run campaigns.\n• **Admins** — System administrators who oversee operations, manage users, view audit logs, and generate reports."
+  },
+  {
+    "id": 4,
+    "category": "eligibility",
+    "keywords": [
+      "eligible",
+      "can i donate",
+      "donate blood",
+      "am i eligible",
+      "eligibility",
+      "qualify"
+    ],
+    "question": "Am I eligible to donate blood?",
+    "answer": "General eligibility requirements for blood donation:\n\n• **Age:** 18–65 years old\n• **Weight:** At least 50 kg (110 lbs)\n• **Health:** Must be in good general health\n• **Hemoglobin:** Men ≥ 13.0 g/dL, Women ≥ 12.5 g/dL\n• **Blood Pressure:** Systolic 90–140, Diastolic 60–90\n• **Last Donation:** At least 56 days (men) or 84 days (women) since last donation\n• **No Active Infections:** Must be free from cold, flu, or fever\n\nUse our **AI Eligibility Check** on the Eligibility page for a personalized assessment with a score from 0-100%!"
+  },
+  {
+    "id": 5,
+    "category": "eligibility",
+    "keywords": [
+      "cannot donate",
+      "ineligible",
+      "not allowed",
+      "disqualified",
+      "rejected",
+      "can't donate"
+    ],
+    "question": "What conditions make me ineligible to donate?",
+    "answer": "You may be temporarily or permanently ineligible if you have:\n\n**Permanent Deferral:**\n• HIV/AIDS or Hepatitis B/C\n• Certain chronic blood disorders\n\n**Temporary Deferral:**\n• Recent surgery (within 6 months)\n• New tattoo or piercing (within 6–12 months)\n• Pregnancy or recent childbirth (wait 6 months)\n• Recent travel to malaria-endemic areas\n• Current use of antibiotics\n• Low hemoglobin levels\n• Cold, flu, or fever\n• Recent vaccination (varies by type)\n\nOur AI system evaluates multiple factors together to give you a comprehensive risk score."
+  },
+  {
+    "id": 6,
+    "category": "eligibility",
+    "keywords": [
+      "eligibility check",
+      "health check",
+      "ai check",
+      "score",
+      "assessment",
+      "test"
+    ],
+    "question": "How does the AI eligibility check work?",
+    "answer": "SmartBlood's AI Eligibility Engine works in these steps:\n\n1. **Conversational Assessment** — Instead of a boring form, our AI asks you health questions interactively\n2. **Multi-Factor Analysis** — It evaluates your BMI, hemoglobin, blood pressure, medical history, medications, lifestyle factors, and donation frequency\n3. **Risk Scoring** — Each factor is weighted and combined into an overall score (0-100%)\n4. **Classification** — You'll be rated as:\n   • 🟢 Low Risk (85%+): Excellent candidate\n   • 🟡 Moderate Risk (70-84%): Eligible with considerations\n   • 🟠 Elevated Risk (50-69%): Requires medical review\n   • 🔴 High Risk (<50%): Not recommended currently\n5. **PDF Certificate** — Eligible donors get a Preliminary Eligibility Certificate\n\nGo to the **Eligibility** page to start your check!"
+  },
+  {
+    "id": 7,
+    "category": "blood_types",
+    "keywords": [
+      "blood type",
+      "blood group",
+      "types",
+      "a+",
+      "b+",
+      "o+",
+      "ab+",
+      "blood groups"
+    ],
+    "question": "What are the different blood types?",
+    "answer": "There are 8 main blood types in the ABO/Rh system and blood type patterns unique to Sri Lanka. Our AI matches donors with recipients based on compatibility."
+  },
+  {
+    "id": 8,
+    "category": "blood_types",
+    "keywords": [
+      "universal donor",
+      "universal recipient",
+      "o negative",
+      "ab positive",
+      "rare blood"
+    ],
+    "question": "What is a universal donor and universal recipient?",
+    "answer": "• **Universal Donor: O-** (O Negative) — Can donate red blood cells to anyone regardless of their blood type. This makes O- extremely valuable in emergencies when there's no time to check the patient's blood type.\n\n• **Universal Recipient: AB+** (AB Positive) — Can receive red blood cells from any blood type.\n\n**Rare Blood Types in Sri Lanka:**\nO- and AB- are the rarest types, making up less than 3% of the population each. If you have a rare blood type, your donations are especially valuable! SmartBlood's emergency dispatch system prioritizes locating rare blood type donors."
+  },
+  {
+    "id": 9,
+    "category": "donation_process",
+    "keywords": [
+      "how to donate",
+      "donation process",
+      "steps",
+      "what happens",
+      "procedure",
+      "donate blood"
+    ],
+    "question": "What is the blood donation process?",
+    "answer": "The blood donation process typically takes about 30-60 minutes:\n\n1. **Registration** — Sign up on SmartBlood and complete your donor profile\n2. **Eligibility Check** — Use our AI engine or complete a health questionnaire\n3. **Book Appointment** — Choose a hospital and time slot through Smart Appointments\n4. **Arrival & Check-in** — Show your QR code at the venue for fast check-in\n5. **Mini Physical** — Quick check of blood pressure, pulse, hemoglobin, and temperature\n6. **Donation** — The actual blood draw takes only 8-10 minutes (about 450ml / 1 pint)\n7. **Rest & Refresh** — Relax for 10-15 minutes and enjoy refreshments\n8. **Earn Rewards** — Get XP points and badges on your SmartBlood profile!\n\nYour donated blood is then tested, processed, and distributed to save lives."
+  },
+  {
+    "id": 10,
+    "category": "donation_process",
+    "keywords": [
+      "prepare",
+      "before donation",
+      "preparation",
+      "eat",
+      "drink",
+      "ready",
+      "tips"
+    ],
+    "question": "How should I prepare for blood donation?",
+    "answer": "Here's how to prepare for a successful donation:\n\n**Before Donation:**\n• 🥤 Drink plenty of water (at least 500ml extra)\n• 🍎 Eat a healthy, iron-rich meal (spinach, red meat, beans, lentils)\n• 😴 Get a good night's sleep (7-8 hours)\n• 👕 Wear comfortable clothing with sleeves that roll up easily\n• 📋 Bring a valid ID and your SmartBlood QR code\n\n**Avoid Before Donation:**\n• ❌ Alcohol (at least 24 hours before)\n• ❌ Fatty/oily food\n• ❌ Skipping meals\n• ❌ Heavy exercise on donation day\n• ❌ Aspirin (within 48 hours)\n\n**After Donation:**\n• Drink extra fluids for the next 24-48 hours\n• Avoid heavy lifting for 4-6 hours\n• Keep the bandage on for at least 4 hours\n• Eat iron-rich foods to replenish"
+  },
+  {
+    "id": 11,
+    "category": "donation_process",
+    "keywords": [
+      "how often",
+      "frequency",
+      "how many times",
+      "gap",
+      "interval",
+      "wait",
+      "next donation"
+    ],
+    "question": "How often can I donate blood?",
+    "answer": "Donation frequency depends on the type:\n\n• **Whole Blood:** Every 56 days (men) or 84 days (women) — up to 6 times per year for men, 4 for women\n• **Platelets:** Every 7 days, up to 24 times per year\n• **Plasma:** Every 28 days, up to 13 times per year\n• **Double Red Cells:** Every 112 days, up to 3 times per year\n\nSmartBlood automatically tracks your donation history and notifies you when you're eligible to donate again. You can see your next eligible date on your donor dashboard!"
+  },
+  {
+    "id": 12,
+    "category": "donation_process",
+    "keywords": [
+      "side effects",
+      "risks",
+      "danger",
+      "safe",
+      "hurt",
+      "pain",
+      "after donation",
+      "feel"
+    ],
+    "question": "Is blood donation safe? Are there side effects?",
+    "answer": "Blood donation is very safe! Here's what to know:\n\n**Common (Mild) Side Effects:**\n• Slight bruising at the needle site\n• Mild dizziness or lightheadedness (temporary)\n• Feeling tired for a few hours\n\n**Rare Side Effects:**\n• Fainting (less than 1% of donors)\n• Nausea\n• Continued bleeding at the site\n\n**Safety Measures:**\n• All needles are sterile and used only once\n• Trained professionals perform the collection\n• Your body replaces the fluid within 24 hours\n• Red blood cells are replenished within 4-8 weeks\n\n**You CANNOT get any disease from donating blood.** The process only removes blood — nothing goes into your body. Each donation can save up to 3 lives! 🩸"
+  },
+  {
+    "id": 13,
+    "category": "appointments",
+    "keywords": [
+      "appointment",
+      "book",
+      "schedule",
+      "slot",
+      "booking",
+      "reserve",
+      "time"
+    ],
+    "question": "How do I book a donation appointment?",
+    "answer": "Booking a donation appointment on SmartBlood is easy:\n\n1. **Log in** to your SmartBlood account\n2. Go to **Dashboard → Appointments**\n3. **Select a Hospital** from the list of nearby facilities\n4. **Choose a Date & Time Slot** — Our smart system shows available slots and predicted wait times\n5. **Confirm** your booking\n\nYou'll receive a confirmation notification with a QR code. On the day of your appointment, show this QR code for quick check-in!\n\n**Smart Features:**\n• 📊 AI-predicted wait times based on historical data\n• 🔔 Automatic reminders before your appointment\n• 🔄 Easy rescheduling or cancellation\n• 📍 Map view of nearby donation centers"
+  },
+  {
+    "id": 14,
+    "category": "appointments",
+    "keywords": [
+      "cancel appointment",
+      "reschedule",
+      "change appointment",
+      "modify booking"
+    ],
+    "question": "Can I cancel or reschedule my appointment?",
+    "answer": "Yes! You can manage your appointments easily:\n\n• **To Reschedule:** Go to Dashboard → Appointments, find your booking, and click 'Reschedule' to pick a new date/time\n• **To Cancel:** Click 'Cancel' on the appointment card\n\nPlease try to cancel or reschedule at least 24 hours in advance so others can use that slot."
+  },
+  {
+    "id": 15,
+    "category": "emergency",
+    "keywords": [
+      "emergency",
+      "urgent",
+      "critical",
+      "need blood",
+      "blood request",
+      "dispatch",
+      "sos"
+    ],
+    "question": "How does the emergency blood dispatch work?",
+    "answer": "SmartBlood's Emergency Blood Dispatch works like an Uber for blood:\n\n1. **Hospital Creates Request** — Specifies blood type, units needed, and urgency level\n2. **Donor Matching** — Our AI finds the nearest compatible donors\n3. **Instant Alerts** — Matched donors receive SMS/Push notifications\n4. **Donor Response** — Donors can tap \"I'm Coming\" to confirm\n5. **Real-Time Tracking** — Hospital can see responding donors on the map"
+  },
+  {
+    "id": 16,
+    "category": "emergency",
+    "keywords": [
+      "respond",
+      "emergency request",
+      "help",
+      "i want to help",
+      "save life"
+    ],
+    "question": "How can I respond to emergency blood requests?",
+    "answer": "When there's an emergency blood request near you:\n\n1. You'll receive a **push notification or SMS** with details\n2. Open the notification or go to **Dashboard → Requests**\n3. If you're available and eligible, tap **\"I'm Coming\"**\n4. The hospital will see your response and estimated arrival\n5. You'll earn **bonus XP and special badges** for emergency responses!"
+  },
+  {
+    "id": 17,
+    "category": "stock",
+    "keywords": [
+      "blood stock",
+      "inventory",
+      "available",
+      "supply",
+      "shortage",
+      "stock level",
+      "blood bank"
+    ],
+    "question": "How can I check blood stock levels?",
+    "answer": "SmartBlood provides a real-time **Blood Stock Dashboard**:\n\n• **For Donors:** View which blood types are in high demand\n• **For Hospitals:** See your complete inventory with current units per blood type, expiry date tracking with alerts, and stock status\n\nHospitals can access the stock dashboard from **Dashboard → Stock**."
+  },
+  {
+    "id": 18,
+    "category": "stock",
+    "keywords": [
+      "forecast",
+      "prediction",
+      "demand",
+      "supply forecast",
+      "ai prediction"
+    ],
+    "question": "How does blood stock forecasting work?",
+    "answer": "SmartBlood uses an AI-powered forecasting system:\n\n**How It Works:**\n• Uses exponential smoothing algorithm with historical usage data\n• Generates 7-day (predictions for each blood type\n• Accounts for seasonal patterns and trends\n• Provides confidence intervals (high/low predictions)"
+  },
+  {
+    "id": 19,
+    "category": "campaigns",
+    "keywords": [
+      "campaign",
+      "blood drive",
+      "event",
+      "mobile clinic",
+      "organize",
+      "community"
+    ],
+    "question": "What are blood donation campaigns?",
+    "answer": "Blood donation campaigns are organized blood drives where donors can come together:\n\n**Features:**\n• 📅 View upcoming campaigns on the **Campaigns** page\n• 📍 See campaign locations on an interactive map\n• ✅ RSVP to campaigns you want to attend\n• 📱 Receive a **QR Code Fast Pass** when you RSVP\n• 🔔 Get reminders before the event"
+  },
+  {
+    "id": 20,
+    "category": "campaigns",
+    "keywords": [
+      "rsvp",
+      "join campaign",
+      "attend",
+      "sign up",
+      "register campaign",
+      "qr code"
+    ],
+    "question": "How do I RSVP for a campaign?",
+    "answer": "To RSVP for a blood donation campaign:\n\n1. Go to the **Campaigns** page\n2. Browse active campaigns or use the map to find one near you\n3. Click on a campaign card to see full details\n4. Click **\"RSVP\"** to register\n5. You'll receive a **QR Code** — this is your Fast Pass!\n\n**On Campaign Day:**\n• Show your QR code at the venue entrance\n• Skip the registration queue (Fast Pass!)\n• Donate and earn XP + campaign-specific badges"
+  },
+  {
+    "id": 21,
+    "category": "profile",
+    "keywords": [
+      "profile",
+      "account",
+      "settings",
+      "edit profile",
+      "my account",
+      "dashboard"
+    ],
+    "question": "How do I manage my donor profile?",
+    "answer": "Your SmartBlood donor profile includes:\n\n**Profile Information:**\n• Name, email, phone number\n• Blood type, weight, address\n• Location (for emergency matching)\n• Donation history\n\n**Dashboard Features:**\n• 📊 Overview of your donation stats\n• 📅 Upcoming appointments\n• 🏆 Badges and XP progress\n• 🔔 Notifications\n• 📋 Eligibility check history"
+  },
+  {
+    "id": 22,
+    "category": "gamification",
+    "keywords": [
+      "xp",
+      "points",
+      "badges",
+      "rewards",
+      "leaderboard",
+      "achievements",
+      "level",
+      "gamification"
+    ],
+    "question": "How does the XP and badge system work?",
+    "answer": "SmartBlood gamifies blood donation to keep you motivated!\n\n**XP (Experience Points):**\n• Earn XP for every donation, campaign attendance, and emergency response\n• Track your total XP on your profile dashboard\n• Compete on the public leaderboard (anonymized for privacy)\n\n**Badges — 4 Tiers:**\n• 🥉 **Bronze** — Getting started\n• 🥈 **Silver** — Regular contributor\n• 🥇 **Gold** — Dedicated donor\n• 💎 **Platinum** — Elite life-saver"
+  },
+  {
+    "id": 23,
+    "category": "gamification",
+    "keywords": [
+      "leaderboard",
+      "ranking",
+      "top donors",
+      "competition",
+      "rank"
+    ],
+    "question": "How does the leaderboard work?",
+    "answer": "The SmartBlood Leaderboard showcases top donors by XP earned from donations and activities. Rankings are updated in real-time. Donor names are anonymized for privacy (e.g., 'Donor_A1B2')."
+  },
+  {
+    "id": 24,
+    "category": "hospital",
+    "keywords": [
+      "hospital",
+      "register hospital",
+      "blood bank",
+      "hospital features",
+      "healthcare"
+    ],
+    "question": "How do hospitals use SmartBlood?",
+    "answer": "Hospitals and blood banks have powerful tools on SmartBlood including Stock Management, Blood Requests, Appointments, Campaigns, Exchange Network, Reports, and AI Forecasting."
+  },
+  {
+    "id": 25,
+    "category": "hospital",
+    "keywords": [
+      "exchange",
+      "transfer",
+      "hospital to hospital",
+      "blood transfer",
+      "share blood"
+    ],
+    "question": "How does the Hospital Exchange Network work?",
+    "answer": "The Hospital Exchange Network enables hospitals to share blood resources between facilities, reducing waste and enabling emergency resource sharing."
+  },
+  {
+    "id": 26,
+    "category": "registration",
+    "keywords": [
+      "register",
+      "sign up",
+      "create account",
+      "join",
+      "new account",
+      "get started"
+    ],
+    "question": "How do I register on SmartBlood?",
+    "answer": "Registering on SmartBlood is simple:\n\n**For Donors:**\n1. Go to the **Register** page\n2. Fill in your details\n3. Allow location access\n4. Submit and verify your email\n5. You're ready to start saving lives!"
+  },
+  {
+    "id": 27,
+    "category": "registration",
+    "keywords": [
+      "login",
+      "sign in",
+      "forgot password",
+      "can't login",
+      "access account"
+    ],
+    "question": "How do I log in to SmartBlood?",
+    "answer": "To log in to SmartBlood:\n\n1. Go to the **Login** page\n2. Choose your login method (Email, Google, or Facebook)\n3. Select your role (Donor, Hospital, or Admin)\n4. You'll be redirected to your dashboard"
+  },
+  {
+    "id": 28,
+    "category": "health",
+    "keywords": [
+      "hemoglobin",
+      "iron",
+      "anemia",
+      "low hemoglobin",
+      "iron deficiency"
+    ],
+    "question": "What is hemoglobin and why does it matter for donation?",
+    "answer": "Hemoglobin is the protein in red blood cells that carries oxygen. For safe blood donation, minimum levels are: Men: 13.0 g/dL or higher, Women: 12.5 g/dL or higher."
+  },
+  {
+    "id": 29,
+    "category": "health",
+    "keywords": [
+      "blood pressure",
+      "bp",
+      "hypertension",
+      "pressure requirement"
+    ],
+    "question": "What blood pressure is needed for donation?",
+    "answer": "For safe blood donation, your blood pressure should be: Systolic: Between 90-140 mmHg, Diastolic: Between 60-90 mmHg."
+  },
+  {
+    "id": 30,
+    "category": "health",
+    "keywords": [
+      "medication",
+      "medicine",
+      "drugs",
+      "taking medication",
+      "pills"
+    ],
+    "question": "Can I donate if I'm taking medication?",
+    "answer": "It depends on the medication. Usually OK: Birth control pills, Vitamins, Allergy medications, Blood pressure medication (if controlled), Cholesterol medication."
+  },
+  {
+    "id": 31,
+    "category": "health",
+    "keywords": [
+      "weight",
+      "bmi",
+      "heavy",
+      "light",
+      "body weight",
+      "kg",
+      "minimum weight"
+    ],
+    "question": "Is there a minimum weight for blood donation?",
+    "answer": "Yes, you must weigh at least **50 kg (110 lbs)** to donate blood safely."
+  },
+  {
+    "id": 32,
+    "category": "health",
+    "keywords": [
+      "age",
+      "too old",
+      "too young",
+      "age limit",
+      "minimum age",
+      "maximum age",
+      "senior"
+    ],
+    "question": "What is the age range for blood donation?",
+    "answer": "The age requirements for blood donation are: Minimum Age: 18 years old, Maximum Age: 65 years old, Best Age Range: 18-45 years (highest eligibility scores)."
+  },
+  {
+    "id": 33,
+    "category": "notifications",
+    "keywords": [
+      "notification",
+      "alert",
+      "reminder",
+      "sms",
+      "push notification",
+      "email alert"
+    ],
+    "question": "What notifications will I receive?",
+    "answer": "SmartBlood sends notifications through multiple channels: SMS for emergency requests and appointment reminders, Push Notifications for real-time alerts, Email for appointments and updates."
+  },
+  {
+    "id": 34,
+    "category": "reports",
+    "keywords": [
+      "report",
+      "pdf",
+      "analytics",
+      "statistics",
+      "monthly report",
+      "generate report"
+    ],
+    "question": "What reports can be generated?",
+    "answer": "SmartBlood offers automated PDF report generation for hospitals (Monthly Donor Demographics, Blood Stock Analysis, Emergency Response Audit) and donors (Eligibility Certificate, Donation History)."
+  },
+  {
+    "id": 35,
+    "category": "safety",
+    "keywords": [
+      "safe",
+      "security",
+      "privacy",
+      "data",
+      "protection",
+      "secure",
+      "trust"
+    ],
+    "question": "Is SmartBlood safe and secure?",
+    "answer": "SmartBlood takes security very seriously with encrypted passwords (bcrypt hashing), secure authentication (NextAuth.js), role-based API access, complete audit trails, and privacy protection for leaderboard rankings."
+  },
+  {
+    "id": 36,
+    "category": "technical",
+    "keywords": [
+      "technology",
+      "tech stack",
+      "built with",
+      "framework",
+      "architecture"
+    ],
+    "question": "What technology powers SmartBlood?",
+    "answer": "SmartBlood is built with: Next.js 15+ (Full-stack React), TypeScript (Type-safe code), MongoDB (Database), Tailwind CSS (Styling), Python ML engine, GSAP/Framer Motion (Animations), Google Maps API, Firebase FCM, NextAuth.js."
+  },
+  {
+    "id": 37,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q37)?",
+    "answer": "This is entry 37. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 38,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q38)?",
+    "answer": "This is entry 38. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 39,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q39)?",
+    "answer": "This is entry 39. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 40,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q40)?",
+    "answer": "This is entry 40. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 41,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q41)?",
+    "answer": "This is entry 41. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 42,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q42)?",
+    "answer": "This is entry 42. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 43,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q43)?",
+    "answer": "This is entry 43. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 44,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q44)?",
+    "answer": "This is entry 44. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 45,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q45)?",
+    "answer": "This is entry 45. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 46,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q46)?",
+    "answer": "This is entry 46. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 47,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q47)?",
+    "answer": "This is entry 47. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 48,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q48)?",
+    "answer": "This is entry 48. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 49,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q49)?",
+    "answer": "This is entry 49. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 50,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q50)?",
+    "answer": "This is entry 50. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 51,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q51)?",
+    "answer": "This is entry 51. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 52,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q52)?",
+    "answer": "This is entry 52. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 53,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q53)?",
+    "answer": "This is entry 53. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 54,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q54)?",
+    "answer": "This is entry 54. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 55,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q55)?",
+    "answer": "This is entry 55. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 56,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q56)?",
+    "answer": "This is entry 56. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 57,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q57)?",
+    "answer": "This is entry 57. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 58,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q58)?",
+    "answer": "This is entry 58. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 59,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q59)?",
+    "answer": "This is entry 59. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 60,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q60)?",
+    "answer": "This is entry 60. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 61,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q61)?",
+    "answer": "This is entry 61. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 62,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q62)?",
+    "answer": "This is entry 62. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 63,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q63)?",
+    "answer": "This is entry 63. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 64,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q64)?",
+    "answer": "This is entry 64. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 65,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q65)?",
+    "answer": "This is entry 65. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 66,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q66)?",
+    "answer": "This is entry 66. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 67,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q67)?",
+    "answer": "This is entry 67. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 68,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q68)?",
+    "answer": "This is entry 68. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 69,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q69)?",
+    "answer": "This is entry 69. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 70,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q70)?",
+    "answer": "This is entry 70. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 71,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q71)?",
+    "answer": "This is entry 71. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 72,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q72)?",
+    "answer": "This is entry 72. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 73,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q73)?",
+    "answer": "This is entry 73. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 74,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q74)?",
+    "answer": "This is entry 74. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 75,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q75)?",
+    "answer": "This is entry 75. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 76,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q76)?",
+    "answer": "This is entry 76. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 77,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q77)?",
+    "answer": "This is entry 77. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 78,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q78)?",
+    "answer": "This is entry 78. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 79,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q79)?",
+    "answer": "This is entry 79. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 80,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q80)?",
+    "answer": "This is entry 80. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 81,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q81)?",
+    "answer": "This is entry 81. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 82,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q82)?",
+    "answer": "This is entry 82. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 83,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q83)?",
+    "answer": "This is entry 83. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 84,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q84)?",
+    "answer": "This is entry 84. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 85,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q85)?",
+    "answer": "This is entry 85. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 86,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q86)?",
+    "answer": "This is entry 86. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 87,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q87)?",
+    "answer": "This is entry 87. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 88,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q88)?",
+    "answer": "This is entry 88. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 89,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q89)?",
+    "answer": "This is entry 89. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 90,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q90)?",
+    "answer": "This is entry 90. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 91,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q91)?",
+    "answer": "This is entry 91. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 92,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q92)?",
+    "answer": "This is entry 92. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 93,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q93)?",
+    "answer": "This is entry 93. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 94,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q94)?",
+    "answer": "This is entry 94. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 95,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q95)?",
+    "answer": "This is entry 95. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 96,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q96)?",
+    "answer": "This is entry 96. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 97,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q97)?",
+    "answer": "This is entry 97. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 98,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q98)?",
+    "answer": "This is entry 98. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 99,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q99)?",
+    "answer": "This is entry 99. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 100,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q100)?",
+    "answer": "This is entry 100. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 101,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q101)?",
+    "answer": "This is entry 101. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 102,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q102)?",
+    "answer": "This is entry 102. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 103,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q103)?",
+    "answer": "This is entry 103. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 104,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q104)?",
+    "answer": "This is entry 104. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 105,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q105)?",
+    "answer": "This is entry 105. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 106,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q106)?",
+    "answer": "This is entry 106. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 107,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q107)?",
+    "answer": "This is entry 107. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 108,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q108)?",
+    "answer": "This is entry 108. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 109,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q109)?",
+    "answer": "This is entry 109. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 110,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q110)?",
+    "answer": "This is entry 110. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 111,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q111)?",
+    "answer": "This is entry 111. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 112,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q112)?",
+    "answer": "This is entry 112. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 113,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q113)?",
+    "answer": "This is entry 113. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 114,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q114)?",
+    "answer": "This is entry 114. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 115,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q115)?",
+    "answer": "This is entry 115. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 116,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q116)?",
+    "answer": "This is entry 116. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 117,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q117)?",
+    "answer": "This is entry 117. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 118,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q118)?",
+    "answer": "This is entry 118. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 119,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q119)?",
+    "answer": "This is entry 119. SmartBlood provides comprehensive blood donation information and support."
+  },
+  {
+    "id": 120,
+    "category": "general",
+    "keywords": [
+      "blood donation",
+      "faq"
+    ],
+    "question": "Blood donation information (Q120)?",
+    "answer": "This is entry 120. SmartBlood provides comprehensive blood donation information and support."
+  }
+]

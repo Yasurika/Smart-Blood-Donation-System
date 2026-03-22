@@ -1,10 +1,11 @@
-# Smart-Blood-Donation-System
+# Smart Blood Donation System
 
 Smart Blood Donation System is a full-stack application built with Next.js (frontend + backend API routes) and a Python-based AI suggestion service. It is designed to streamline blood donation campaigns, donor eligibility checks, appointment recommendations, inventory stock analysis, and hospital request management.
 
 ## Features
 
 - User authentication (login/register) with role-based dashboards (donor/hospital/admin)
+
 - Donor profile, eligibility questionnaire, and appointment booking
 - Hospital dashboard with stock tracking, requests, and campaign management
 - Real-time blood heatmap and analytics

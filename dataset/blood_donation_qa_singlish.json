@@ -1,0 +1,534 @@
+[
+  {
+    "id": 1,
+    "category": "general",
+    "keywords": ["smartblood mokada", "smartblood", "system", "yadda", "platform"],
+    "question": "SmartBlood mokada?",
+    "answer": "SmartBlood adalah sistem AI-powered web platform designed karanna blood donation management sa Sri Lanka. Ito ay nag-replace ng manual paper-based systems with real-time, intelligent digital ecosystem para sa blood donation, emergency dispatch, smart appointments, stock forecasting, at donor engagement."
+  },
+  {
+    "id": 2,
+    "category": "general",
+    "keywords": ["features mokada", "ki karanawa", "features", "capabilities"],
+    "question": "SmartBlood la features mokada ata?",
+    "answer": "SmartBlood la 8 main features have:\n\n1. **AI Eligibility Check** - Conversational health assessment\n2. **Emergency Blood Dispatch** - Uber-like donor matching\n3. **Smart Appointments** - Automated slot booking\n4. **Blood Stock Dashboard** - AI forecasting alerts\n5. **Gamified Donor Profile** - XP system, badges, leaderboard\n6. **Hospital Exchange Network** - Blood transfers between hospitals\n7. **Automated Reports** - PDF generation\n8. **Campaign Manager** - Blood drive events with QR codes"
+  },
+  {
+    "id": 3,
+    "category": "eligibility",
+    "keywords": ["matte puluwan da", "matte donate karanawa puluwanada", "eligible", "qualifying"],
+    "question": "Matte blood donate karanawa puluwanada?",
+    "answer": "General eligibility requirements:\n\n• **Age:** 18-65 years\n• **Weight:** Minimum 50kg\n• **Health:** Must be in good health\n• **Hemoglobin:** Men ≥13.0, Women ≥12.5\n• **Blood Pressure:** 90-140/60-90\n• **Last Donation:** 56 days (men) or 84 days (women) gap\n• **No Active Infections**\n\nUse our AI Eligibility Check for personalized assessment!"
+  },
+  {
+    "id": 4,
+    "category": "blood_types",
+    "keywords": ["blood types mokada", "blood groups", "a+", "b+", "o+"],
+    "question": "Blood types mokada ata?",
+    "answer": "8 main blood types have:\n\n| Type | Can Donate To | Can Receive From |\n|------|--------------|------------------|\n| **O-** | Everyone | O- only |\n| **O+** | O+, A+, B+, AB+ | O+, O- |\n| **A-** | A-, A+, AB-, AB+ | A-, O- |\n| **A+** | A+, AB+ | A+, A-, O+, O- |\n| **B-** | B-, B+, AB-, AB+ | B-, O- |\n| **B+** | B+, AB+ | B+, B-, O+, O- |\n| **AB-** | AB-, AB+ | AB-, A-, B-, O- |\n| **AB+** | AB+ only | Everyone |\n\nSri Lanka: O+ (36.5%), B+ (24.1%), A+ (22.8%), AB+ (7.2%)"
+  },
+  {
+    "id": 5,
+    "category": "donation_process",
+    "keywords": ["donate karanaw kohomat", "donation process", "ki hadala", "blood dana"],
+    "question": "Blood donate karanaw kohomat?",
+    "answer": "Blood donation process 8 steps have:\n\n1. **Registration** - Sign up on SmartBlood\n2. **Eligibility Check** - Health questionnaire\n3. **Book Appointment** - Choose hospital and time\n4. **Check-in** - Show QR code\n5. **Mini Physical** - Blood pressure, hemoglobin check\n6. **Donation** - 8-10 minutes blood draw\n7. **Rest & Refresh** - 10-15 minutes relaxation\n8. **Rewards** - Earn XP and badges\n\nYour blood is tested, processed, and distributed to save lives."
+  },
+  {
+    "id": 6,
+    "category": "appointments",
+    "keywords": ["appointment book karanaw", "time slot reserve", "booking"],
+    "question": "Appointment kohomat book karanaw?",
+    "answer": "SmartBlood la appointment booking easy:\n\n1. Log in to your account\n2. Go to Dashboard → Appointments\n3. Select a hospital\n4. Choose date and time slot\n5. Confirm booking\n\nYou'll get QR code for fast check-in. You can reschedule anytime, but cancel 24 hours in advance if possible."
+  },
+  {
+    "id": 7,
+    "category": "emergency",
+    "keywords": ["emergency blood", "urgent need", "critical", "sos"],
+    "question": "Emergency blood dispatch kohomat work karanaw?",
+    "answer": "SmartBlood emergency system Uber-like:\n\n1. Hospital creates urgent blood request\n2. System finds nearby donors on map\n3. Donors get SMS/Push notifications\n4. Donors tap \"I'm Coming\" to confirm\n5. Hospital sees responding donors on map\n6. Donors get bonus XP for emergency help\n\nUrgency levels: Critical, High, Medium, Low"
+  },
+  {
+    "id": 8,
+    "category": "help",
+    "keywords": ["help dena", "problem", "issue", "support"],
+    "question": "Help dena laganda ki karanaw?",
+    "answer": "Need help? Here's what you can do:\n\n• Ask me! I'm your AI assistant\n• Check FAQ on the website\n• View Dashboard for quick info\n• Check specific issue:\n  - Can't login? Reset password\n  - Appointment issues? Check Dashboard\n  - Notifications not working? Update profile\n  - Blood type questions? Use Eligibility Check\n\nI'm available 24/7 to help!"
+  },
+  {
+    "id": 9,
+    "category": "stock",
+    "keywords": ["blood stock", "inventory", "available units", "supply"],
+    "question": "Blood stock levels ki hadala?",
+    "answer": "SmartBlood Blood Stock Dashboard provide:\n\n• Current units per blood type\n• Expiry date tracking\n• Stock status (Available, Reserved, Transfused, Expired)\n• Barcode-based tracking\n\nAI forecasting shows:\n• \"A+ stock run out in 3 days\"\n• Low-stock and critical-stock alerts\n• Campaign recommendations\n\nHospitals la Dashboard → Stock la access karanaw."
+  },
+  {
+    "id": 10,
+    "category": "gamification",
+    "keywords": ["xp", "badges", "points", "leaderboard", "rewards"],
+    "question": "XP at badges system mokada?",
+    "answer": "SmartBlood gamification system:\n\n**XP (Experience Points):**\n• Earn for every donation\n• Track on profile dashboard\n• Compete on public leaderboard\n\n**Badges (4 Tiers):**\n• Bronze - Getting started\n• Silver - Regular contributor\n• Gold - Dedicated donor\n• Platinum - Elite life-saver\n\n**Example Badges:**\n• \"First Drop\" - First donation\n• \"Life Saver\" - 5 donations\n• \"Rare Gem\" - O- or AB- donations\n• \"First Responder\" - Emergency response\n• \"Campaign Hero\" - 3 campaigns attended"
+  },
+  {
+    "id": 11,
+    "category": "health",
+    "keywords": ["hemoglobin mokada", "iron", "health check", "blood test"],
+    "question": "Hemoglobin mokada at important?",
+    "answer": "Hemoglobin is protein sa blood na carries oxygen.\n\n**Minimum levels:\n• Men: 13.0 g/dL\n• Women: 12.5 g/dL\n\n**Why it matters:**\n• Low hemoglobin means low iron\n• Donating with low levels cause anemia\n• Tested before every donation\n\n**To keep hemoglobin healthy:**\n• Eat iron-rich foods: red meat, spinach, beans\n• Vitamin C helps iron absorption\n• Avoid tea/coffee after meals\n• Consider iron supplements if frequent donor\n\nSmartBlood tracks frequency and warns if donating too often."
+  },
+  {
+    "id": 12,
+    "category": "facts",
+    "keywords": ["interesting facts", "did you know", "blood facts", "statistics"],
+    "question": "Blood donation about interesting facts?",
+    "answer": "Here are fascinating blood donation facts:\n\n🩸 **One donation saves up to 3 lives** - blood separated into red cells, platelets, plasma\n\n📊 **Every 2 seconds** someone needs blood worldwide\n\n🏥 **Car accident victim** needs up to 100 units blood\n\n⏱️ **Blood draw** takes only 8-10 minutes total\n\n💪 **Body replaces** plasma in 24 hours, red cells in 4-8 weeks\n\n🌍 **Only 38%** of population can donate, less than 10% actually do\n\n🇱🇰 **Sri Lanka** - O+ (36.5%), B+ (24.1%), A+ (22.8%)\n\n❤️ **Regular donors** have lower heart disease risk\n\n🔥 **Donating burns** approximately 650 calories!\n\nBe a hero - donate blood today! 🦸"
+  },
+  {
+    "id": 13,
+    "category": "general",
+    "keywords": ["hello", "hi", "hey", "greetings", "ayubowang"],
+    "question": "Ayubowang!",
+    "answer": "Ayubowang! 👋 Me SmartBlood AI Assistant. Me help karanaw sakala about:\n\n• 🩸 Blood donation eligibility at preparation\n• 📅 Appointments booking\n• 🏥 Blood stock searching\n• 🏆 Rewards at badges understanding\n• 📢 Campaigns at events\n• 🆘 Emergency blood requests\n\nKi dena gavi bari asa? Just ask me! 😊"
+  },
+  {
+    "id": 14,
+    "category": "general",
+    "keywords": ["thank", "thanks", "shukriya", "obliga"],
+    "question": "Thanks karanaw!",
+    "answer": "Welcome! 😊 Remember, every blood donation save karanaw up to 3 lives. You have more questions about blood donation or SmartBlood, me always here karanna help!\n\n🩸 Stay healthy at keep saving lives!"
+  },
+  {
+    "id": 15,
+    "category": "health",
+    "keywords": ["pregnant", "pregnancy", "breastfeeding", "maiyas"],
+    "question": "Pregnant da na maiyas blood donate karanaw puluwanada?",
+    "answer": "Pregnancy at blood donation guidelines:\n\n**During Pregnancy:**\n• ❌ **Not eligible** - Blood donation not safe during pregnancy\n• Your body need extra blood volume for you at baby\n\n**After Pregnancy:**\n• Wait least **6 months** after delivery\n• If breastfeeding, wait until baby older\n• Hemoglobin levels back to normal?\n\n**C-Section:**\n• Wait least 6 months after surgery\n\n**Miscarriage:**\n• Wait least 6 months\n\nSmartBlood AI eligibility check include pregnancy as key factor. If planning to get pregnant, better donate before conception!"
+  },
+  {
+    "id": 16,
+    "category": "health",
+    "keywords": ["tattoo", "piercing", "tattoo defferal", "body modification"],
+    "question": "Matte tattoo or piercing donew blood donate karanaw puluwanada?",
+    "answer": "Tattoo at piercing guidelines:\n\n• **Wait Period:** 6-12 months after tattoo or body piercing\n• **Reason:** Risk of bloodborne infections (Hepatitis B/C, HIV) from non-sterile equipment\n• **Licensed Facility:** If done at licensed place with sterile equipment, wait period shorter\n\n**SmartBlood Assessment:**\nAI consider this as \"Lifestyle Factor\" sa risk score. Recent tattoo/piercing increase your risk rating but won't disqualify if all other factors excellent.\n\nAlways disclose recent tattoos at piercings for accurate assessment!"
+  },
+  {
+    "id": 17,
+    "category": "health",
+    "keywords": ["covid", "coronavirus", "vaccine", "vaccination"],
+    "question": "COVID-19 karanaw na at vaccine donew blood donate karanaw puluwanada?",
+    "answer": "COVID-19 at blood donation:\n\n**If You HAD COVID-19:**\n• ✅ **Can donate 10 days after recovery** (if no symptoms)\n• Must feel completely back to normal\n• Energy restored\n• No cough or breathing issues\n\n**COVID-19 Vaccine:**\n• ✅ **Can donate immediately** (same day as vaccine if feeling well)\n• No wait period needed\n• mRNA vaccines OK\n• Johnson & Johnson OK immediately\n\n**Vaccine Side Effects:**\n• If feeling unwell after vaccine, wait until symptoms resolve\n• Mild arm soreness - OK to donate\n• Fever, fatigue, headache - rest at donate when better\n\n**COVID Plasma:**\n• Recovered donors very valuable!\n• Plasma have antibodies (especially useful)\n• Can respond to emergency requests once recovered"
+  },
+  {
+    "id": 18,
+    "category": "health",
+    "keywords": ["diabetes", "diabetic", "blood sugar", "insulin"],
+    "question": "Diabetic person blood donate karanaw puluwanada?",
+    "answer": "Diabetes at blood donation eligibility:\n\n**Generally Eligible If:**\n• Your diabetes well-controlled\n• You take oral medication only\n• No complications from diabetes\n• Blood sugar stable\n\n**May Be Deferred If:**\n• Using insulin that derived from cattle sources\n• Diabetes not well-controlled\n• Recent diabetic complications\n\n**Tips for Diabetic Donors:**\n• Monitor your blood sugar before at after donation\n• Eat good meal before donating\n• Bring snacks for after donation\n• Keep your medication schedule\n\nSmartBlood AI eligibility check evaluate chronic conditions as part of medical history. Disclose your diabetes at medications for accurate evaluation!"
+  },
+  {
+    "id": 19,
+    "category": "health",
+    "keywords": ["asthma", "respiratory", "breathing", "lung"],
+    "question": "Asthma or respiratory condition have person blood donate karanaw puluwanada?",
+    "answer": "Asthma at respiratory conditions:\n\n**Generally Eligible If:**\n• Your condition well-controlled\n• Not experiencing active attack or acute episode\n• Can comfortably lie down for 8-10 minutes\n• No acute infection (bronchitis, pneumonia)\n\n**Temporary Deferral:**\n• During active asthma attack or flare-up\n• Current respiratory infection (cold, flu, bronchitis)\n• Recent hospitalization for breathing issues\n\n**At Donation Site:**\n• Bring your rescue inhaler just in case\n• Inform staff of your condition\n• Lying flat position help lungs work less hard\n• Staff can provide extra oxygen if needed\n\nSmartBlood AI assessment include respiratory health. Be honest about your condition for safety!"
+  },
+  {
+    "id": 20,
+    "category": "food",
+    "keywords": ["diet", "food", "eat", "nutrition", "meal", "karanawa"],
+    "question": "Donate giya eka passe saha odata ki karanawa?",
+    "answer": "Proper nutrition important donate successful karanna:\n\n**Before Donation (24 Hours):**\n✅ **Eat these:**\n• Iron-rich foods: Red meat, poultry, fish, beans, lentils, spinach\n• Foods with vitamin C: Oranges, tomatoes, strawberries (help iron absorption)\n• Whole grains: Brown rice, oatmeal, whole wheat bread\n• Proteins: Eggs, yogurt, cheese, nuts\n• Healthy fats: Avocado, olive oil\n\n❌ **Avoid:**\n• Heavy, fatty foods\n• Fried foods\n• Excessive sweets/sugar\n• Alcohol (dehydrate)\n\n**Day of Donation:**\n• Light meal 2-3 hours before\n• Banana, toast, peanut butter\n• Nothing heavy\n\n**After Donation:**\n✅ **Eat these recover karanawa:**\n• Red meat (iron replenishment)\n• Beans at lentils (iron + protein)\n• Leafy greens (folate)\n• Dried fruits (iron + energy)\n• Eggs (complete protein)\n• Vitamin C foods (citrus, berries)"
+  },
+  {
+    "id": 21,
+    "category": "safety",
+    "keywords": ["safe", "risk", "danger", "side effects", "hurt"],
+    "question": "Blood donate karanawa safe? Side effects have?",
+    "answer": "Blood donation very safe! Here's what know:\n\n**Common (Mild) Side Effects:**\n• Slight bruising at needle site\n• Mild dizziness or lightheadedness (temporary)\n• Feeling tired for few hours\n\n**Rare Side Effects:**\n• Fainting (less than 1% of donors)\n• Nausea\n• Continued bleeding at site\n\n**Safety Measures:**\n• All needles sterile, single-use only\n• Trained professionals perform collection\n• Your body replace fluid within 24 hours\n• Red blood cells replenished in 4-8 weeks\n\n**You CANNOT get any disease from donating blood.** Process only remove blood - nothing go into your body. Each donation save up to 3 lives! 🩸"
+  },
+  {
+    "id": 22,
+    "category": "testing",
+    "keywords": ["blood test", "screening", "disease", "infection", "hiv"],
+    "question": "Blood la ki kirime test karanawa?",
+    "answer": "All donated blood thoroughly tested for infections:\n\n**Mandatory Tests:**\n• 🦠 **HIV (AIDS)** - Human Immunodeficiency Virus\n• 🦠 **Hepatitis B (HBsAg)** - Surface antigen test\n• 🦠 **Hepatitis C (Anti-HCV)** - Antibodies\n• 🦠 **Syphilis (RPR/VDRL)** - Treponema pallidum\n• 🦠 **HTLV-I/II** - Human T-cell lymphotropic virus\n\n**Blood Typing & Compatibility:**\n• Blood group at Rh factor\n• Crossmatching for transfusion safety\n• Unexpected antibody detection\n\n**If Positive Result:**\n• Blood **discard immediately** (never transfused)\n• Donor notified confidentially\n• Follow-up testing recommended\n• Support services provided\n\n**99.9% of blood safe** after testing!"
+  },
+  {
+    "id": 23,
+    "category": "myths",
+    "keywords": ["myth", "false", "misconception", "wrong", "truth"],
+    "question": "Blood donate about myths mokada ata?",
+    "answer": "Let's bust some myths!\n\n**❌ MYTH:** \"Donate karanaw na weak hunam mithiyak\"\n**✅ TRUTH:** Normal mala feel karanaw 2-3 days ma. Body replenish plasma immediately!\n\n**❌ MYTH:** \"AIDS get karanaw donate karanaw na\"\n**✅ TRUTH:** Impossible! Sterile needle each donor. Nothing enter your body.\n\n**❌ MYTH:** \"Blood donate air exposed eka dangerous\"\n**✅ TRUTH:** Blood direct go sterile bags with anticoagulant. Zero exposure.\n\n**❌ MYTH:** \"Blood donate hurt karanawa\"\n**✅ TRUTH:** Small pinch (2-3 sec), then no pain. Easy 8-10 minute process.\n\n**❌ MYTH:** \"One donate matter naa\"\n**✅ TRUTH:** **One donation save 3 lives!** Massive impact.\n\n**❌ MYTH:** \"Donors pressure or exploit karanawa\"\n**✅ TRUTH:** Completely voluntary. Anytime refuse karanaw puluwana. No coercion.\n\n**❌ MYTH:** \"Donate immune system lower karanawa\"\n**✅ TRUTH:** Body produce new blood components immediately. Immunity unaffected.\n\n**Truth:** Blood donation safe, essential, at heroic! 🦸"
+  },
+  {
+    "id": 24,
+    "category": "appointments",
+    "keywords": ["appointment miss karanaw na", "no show", "cancel"],
+    "question": "Appointment miss karanaw na ki hadala?",
+    "answer": "Managing missed appointments:\n\n**If Can't Make It:**\n• Cancel **least 24 hours before** (preferred)\n• Go to **Dashboard → Appointments → Cancel**\n• This free up slot for others\n• **Your reliability score stay good**\n\n**If No-Show:**\n• Appointment marked \"No-Show\"\n• Affect your **Donor Reliability Score**\n• Hospital can't supply that slot\n• Other patients emergency request might not fulfill\n\n**Reliability Score Impact:**\n• **1-2 No-Shows:** Warning, still donate karanaw\n• **3+ No-Shows:** Temporary block from booking\n• **Regular Compliance:** \"Trusted Donor\" badge maintain\n\n**Recovery:**\n• Complete donations rebuild reliability\n• No-shows forgotten after 6 months compliance\n• Be hero - show up when commit!\n\n**Cancellation Tips:**\n• Set phone reminders\n• Check schedule before commit\n• Life happen - just cancel advance\n• Better cancel than no-show\n\nYour reliability make hospitals trust you emergency time!"
+  },
+  {
+    "id": 25,
+    "category": "general",
+    "keywords": ["faq", "frequent", "common questions", "answers"],
+    "question": "Most frequently asked questions mokada?",
+    "answer": "Top questions donors ask:\n\n**#1 — \"Weak hunam donate karanaw na?\"**\nNo! Feel normal within 2-3 days. Body replenish fluid immediately.\n\n**#2 — \"Process ki time laganda?\"**\nAbout 30-60 minutes total. Actual blood draw = 8-10 minutes.\n\n**#3 — \"Safe karanda?\"**\nYes! Sterile equipment, trained staff, tested blood. Very safe!\n\n**#4 — \"Disease get karanaw donate na sa?\"**\nNo way! Sterile needles. Nothing enter your body.\n\n**#5 — \"Kopon koti donate karanaw?\"**\nMen: Every 56 days (~6x/year). Women: Every 84 days (~4x/year).\n\n**#6 — \"Nervous me karanawa?\"**\nCompletely normal! Tell staff. They trained help you relax.\n\n**#7 — \"Eligible me kada?\"**\nUse AI Eligibility Check! Takes 5 minutes.\n\n**#8 — \"What's in for me?\"**\nXP, badges, leaderboard ranking, + knowing save 3 lives!\n\n**#9 — \"Faint karanaw if?\"**\nLay down immediately. Staff provide care.\n\n**#10 — \"Emergency dispatch kohomat work?\"**\nGet alerts for urgent nearby requests. Respond = bonus XP!\n\n**Still questions have?** 24/7 here me!"
+  },
+  {
+    "id": 26,
+    "category": "general",
+    "keywords": ["language", "languages", "multilingual", "sinhala", "english"],
+    "question": "SmartBlood ki language support karanawa?",
+    "answer": "SmartBlood designed for Sri Lankan diversity:\n\n**Supported Languages:**\n• 🇬🇧 **English** - International & professional\n• 🇱🇰 **Sinhala** - Native speakers most\n• **Singlish** - English + Sinhala mix (how many Sri Lankans naturally speak!)\n\n**Multi-Language Features:**\n• 🤖 AI chatbot respond in all three\n• 📝 Questions at answers available all languages\n• 🎤 Voice input work all languages\n• 📊 Dashboard UI translatable\n• 🏥 Hospital communication preferred language\n\n**How Switch:**\n• Look **language selector** top right corner\n• Choose your preferred language\n• Settings saved profile\n• Chatbot mode switch immediately\n\n**Singlish Support:**\n• Perfect for natural conversation\n• \"Dam blood donana one eka available meh?\" - Understood!\n• AI process Singlish at respond accurately\n• Need neither \"pure\" English nor Sinhala\n\n**Why Multilingual Matters:**\n• More accessible all Sri Lankans\n• Better health literacy native language\n• Increase participation\n• Remove language barriers\n\n**Help Your Language:**\nMe respond English, Sinhala, or Singlish - pick! 🗣️"
+  },
+  {
+    "id": 27,
+    "category": "registration",
+    "keywords": ["register", "sign up", "create account", "join", "new"],
+    "question": "SmartBlood la ki register karanawa?",
+    "answer": "Registering SmartBlood simple:\n\n**For Donors:**\n1. Go **Register** page\n2. Fill your details: name, email, password, blood type, weight, phone, address\n3. Allow location access for emergency matching\n4. Submit at verify email\n5. Ready start saving lives!\n\n**For Hospitals:**\n1. Go **Hospital Registration** page\n2. Provide: hospital name, email, address, phone, contact person\n3. Set location map\n4. Submit for admin approval\n\n**Login Options:**\n• Email & Password\n• Google OAuth\n• Facebook OAuth\n\nOnce registered, personalized dashboard access!"
+  },
+  {
+    "id": 28,
+    "category": "emergency",
+    "keywords": ["mass casualty", "disaster", "earthquake", "emergency"],
+    "question": "Emergency or disaster time blood supply ki hadala?",
+    "answer": "Emergency blood management during disasters:\n\n**Massive Demand:**\n• Major accidents, earthquakes, floods need massive supplies\n• 100+ units within hours needed\n• Traditional donor calling take 4-6 hours\n• **SmartBlood emergency dispatch work MINUTES ma!**\n\n**SmartBlood Response:**\n1. Hospital create CRITICAL request\n2. All compatible donors within 20km get instant alerts\n3. Donors \"I'm Coming\" → Hospital see live map\n4. **Huge response from ready donors**\n5. Units available 30 minutes vs traditional 4-6 hours\n\n**Your Role:**\n• Donors our heroes during disasters\n• Regular donors = ready reserves\n• Healthy diet/hydration = eligible emergencies\n• Respond alerts even inconvenient - **save lives!**\n\n**Preparedness Sri Lanka:**\nSmartBlood prepare blood ecosystem any crisis. Register now ready!"
+  },
+  {
+    "id": 29,
+    "category": "health",
+    "keywords": ["heart disease", "cardiac", "hypertension", "cholesterol"],
+    "question": "Heart disease have person blood donate karanaw puluwanada?",
+    "answer": "Heart disease eligibility depend type at severity:\n\n**Generally Eligible If:**\n• Condition stable at well-controlled medication with\n• Blood pressure within normal range (90-140/60-90)\n• No recent heart attacks or surgeries\n• Doctor approval obtained\n\n**Temporary Deferral:**\n• Least 6 months after heart attack\n• Least 6 months after open heart surgery\n• Ongoing cardiac events or unstable angina\n\n**Information Provide:**\n• Type heart condition\n• Medications being taken\n• Dates any procedures\n\nSmartBlood AI evaluate cardiovascular health critical factor. Provide complete medical history accurate assessment.\n\n**Always consult cardiologist before donate!**"
+  },
+  {
+    "id": 30,
+    "category": "health",
+    "keywords": ["hiv", "aids", "sexually transmitted"],
+    "question": "HIV or AIDS have me donate karanaw puluwanada?",
+    "answer": "**No, HIV-positive individuals cannot donate.** Permanent deferral.\n\n**Why?**\n• HIV serious bloodborne virus\n• Risk transmission recipients\n• \"Window period\" (2-3 weeks) virus undetectable\n• No safe way guarantee donor safety\n\n**Important Note:**\n• Diagnosed being not shameful - education key\n• Modern antiretroviral therapy (ART) allow people HIV long, healthy lives\n• Still work, contribute, live fully\n• PrEP (preventive medication) prevent transmission\n\n**Focus Self-Care:**\n• Regular medical checkups\n• Take prescribed medications\n• Protect future partners\n• Support communities at organizations\n\nSmartBlood respect all users. HIV status information confidential, never shared without consent."
+  },
+  {
+    "id": 31,
+    "category": "stock",
+    "keywords": ["blood shortage", "critical", "low stock"],
+    "question": "Blood shortage SmartBlood kohomat manage karanawa?",
+    "answer": "SmartBlood prevent at manage blood shortage intelligently:\n\n**Real-Time Visibility:**\n• Every hospital see other hospitals stock levels\n• 🔴 CRITICAL (below minimum) - Urgent action\n• 🟡 LOW (approaching minimum) - Plan restock\n• 🟢 HEALTHY (adequate supply) - Sustainable\n\n**Forecasting:**\n• AI predict shortage **7 days advance**\n• Historical data + seasonal trends use\n• \"B+ run out 3 days\" - Act now\n• Prevent surprise emergencies\n\n**Response Actions:**\n1. **Fast Donation Camp Book** - Supply increase\n2. **Hospital Transfer Request** - Units neighboring hospital get\n3. **Emergency Dispatch Alert** - Available donors call\n4. **Public Campaign** - Community-wide drive\n\n**Strategic Reserve:**\n• O- (universal donor) highest held\n• 3-4 day buffer stock minimum\n• Stock rotate prevent waste\n• Expiry tracking prevent loss\n\n**Impact:**\n20% more regular donors get, blood shortage = SOLVED! 🎯"
+  },
+  {
+    "id": 32,
+    "category": "hospital",
+    "keywords": ["hospital use", "blood bank", "healthcare"],
+    "question": "Hospitals SmartBlood kohomat use karanawa?",
+    "answer": "Hospitals at blood banks powerful tools SmartBlood have:\n\n**Hospital Dashboard:**\n• 📦 **Stock Management** - Inventory track, barcode scanning, expiry alerts\n• 🆘 **Blood Requests** - Emergency or standard requests create\n• 📅 **Appointments** - Donor scheduling at queue manage\n• 📢 **Campaigns** - Blood drives at mobile clinics organize\n• 🔄 **Exchange Network** - Hospital transfers request\n• 📊 **Reports** - Monthly analytics PDFs generate\n• 📈 **AI Forecasting** - Stock shortage predict\n\n**Register Hospital:**\nSmartBlood admin contact or hospital registration page visit with facility details, contact person, location."
+  },
+  {
+    "id": 33,
+    "category": "profile",
+    "keywords": ["profile", "account", "settings", "dashboard"],
+    "question": "Donor profile kohomat manage karanaw?",
+    "answer": "Your SmartBlood donor profile include:\n\n**Profile Information:**\n• Name, email, phone number\n• Blood type, weight, address\n• Location (emergency matching for)\n• Donation history\n\n**Dashboard Features:**\n• 📊 Donation stats overview\n• 📅 Upcoming appointments\n• 🏆 Badges at XP progress\n• 🔔 Notifications\n• 📋 Eligibility check history\n\n**Update Your Profile:**\n1. Log in at go **Dashboard → Profile**\n2. Edit your information\n3. Save changes\n\nKeep profile updated - especially contact number at location - emergency blood request alerts receive!"
+  },
+  {
+    "id": 34,
+    "category": "blood_components",
+    "keywords": ["blood components", "platelets", "plasma", "red cells", "white cells", "blood parts"],
+    "question": "Blood la components mokada ata?",
+    "answer": "Blood la 4 main components have:\n\n🔴 **Red Blood Cells (RBC):**\n• Oxygen carry karanaw body throughout\n• 42 days shelf life have\n• Anemia, surgery, trauma patients use\n• One donation = one RBC unit\n\n🟡 **Platelets:**\n• Blood clotting help karanaw\n• Only 5 days shelf life! Very short\n• Cancer patients, leukemia treatment use\n• Constant supply need\n\n🟠 **Plasma:**\n• Liquid part of blood (55% volume)\n• 1 year frozen shelf life\n• Burn victims, liver disease, clotting disorders use\n• Contains proteins, antibodies, nutrients\n\n⚪ **White Blood Cells (WBC):**\n• Infection fight karanaw\n• Usually removed from donated blood\n• Immune system part\n\n**One donation → 3 components separate karanaw → 3 lives save!** 🩸\n\nSmartBlood track karanaw each component separately stock dashboard la."
+  },
+  {
+    "id": 35,
+    "category": "donation_types",
+    "keywords": ["platelet donation", "apheresis", "platelet donate", "platelets dena"],
+    "question": "Platelet donation mokada? Whole blood ekata differ?",
+    "answer": "Platelet donation (Apheresis) special process:\n\n**Whole Blood vs Platelet Donation:**\n\n| Feature | Whole Blood | Platelet |\n|---------|------------|----------|\n| **Time** | 8-10 min | 1.5-2.5 hours |\n| **Frequency** | Every 56-84 days | Every 7 days (max 24x/year) |\n| **What Collected** | All components | Platelets only |\n| **Process** | Single needle | Machine separate karanaw |\n| **Recovery** | Quick | Very quick |\n\n**Apheresis Process:**\n1. Blood draw karanaw one arm through\n2. Machine platelets separate karanaw\n3. Remaining blood return karanaw your body\n4. Cycle repeat several times\n\n**Why Platelets Special:**\n• Only **5 days shelf life** — constant need!\n• Cancer patients chemotherapy need frequently\n• Leukemia at blood disorder patients essential\n• Surgery patients massive bleeding time\n\n**Eligibility:**\n• Same as whole blood + extra requirements\n• Must not have taken aspirin 48 hours within\n• Platelet count adequate\n\nSmartBlood la platelet donation option select karanaw appointment booking time! 🩸"
+  },
+  {
+    "id": 36,
+    "category": "donation_types",
+    "keywords": ["plasma donation", "plasma", "convalescent plasma", "plasma dena"],
+    "question": "Plasma donation mokada? Kohomat different?",
+    "answer": "Plasma donation specific process:\n\n**Plasma Mokada:**\n• Blood la liquid part — 55% of blood volume\n• Proteins, antibodies, clotting factors contain karanaw\n• Yellow color have\n• Frozen 1 year store karanaw puluwana\n\n**Plasma Donation Process:**\n1. Blood draw karanaw\n2. Machine plasma separate karanaw\n3. Red cells at other components return karanaw your body\n4. Takes about 1-1.5 hours\n\n**Plasma Use Karanaw:**\n• 🔥 Burn victims — massive plasma need\n• 🏥 Liver disease patients\n• 🩸 Clotting disorder patients (hemophilia)\n• 💉 Immunoglobulin therapy\n• 🦠 Convalescent plasma (recovered patients antibodies)\n\n**Special Plasma Types:**\n• **AB Plasma** — Universal plasma donor! Anyone receive karanaw puluwana\n• **Convalescent Plasma** — Disease recovered people donate (COVID, dengue antibodies have)\n\n**Donation Frequency:**\n• Every **28 days** plasma donate karanaw puluwana\n• More frequent than whole blood\n• Body plasma 24-48 hours replace karanaw\n\nAB blood type have you? Plasma donation especially valuable! 🌟"
+  },
+  {
+    "id": 37,
+    "category": "health",
+    "keywords": ["alcohol", "drinking", "liquor", "beer", "wine", "arrack"],
+    "question": "Alcohol biwwa donate karanaw puluwanada?",
+    "answer": "Alcohol at blood donation guidelines:\n\n**Before Donation:**\n• ❌ **24 hours before** — No alcohol at all!\n• Alcohol dehydrate karanaw your body\n• Dehydrated body + blood loss = dizziness, fainting risk\n• Blood pressure affect karanaw\n• Hemoglobin reading inaccurate karanaw\n\n**Day of Donation:**\n• ❌ **Absolutely no alcohol** donation day\n• Even small amount affect karanaw\n• Staff detect karanaw at defer karanaw\n\n**After Donation:**\n• ❌ **Wait least 24 hours** after donate\n• Body recovering fluid loss\n• Alcohol dehydrate more karanaw\n• Feel drunk faster — less blood volume!\n• Risk faint karanaw or feel very ill\n\n**Tips:**\n• Water at juice plenty drink before donation\n• Replace alcohol with hydrating drinks\n• 48 hour alcohol-free window best (24 before + 24 after)\n\n**Regular Heavy Drinkers:**\n• Liver function affect karanaw — may be deferred\n• Chronic alcohol use disqualify karanaw possible\n• Honest about consumption — your safety important!\n\nHydration key! Water drink, alcohol avoid, safe donate karanaw! 💧"
+  },
+  {
+    "id": 38,
+    "category": "health",
+    "keywords": ["smoking", "cigarette", "tobacco", "vaping", "nicotine"],
+    "question": "Smoking karanaw me donate karanaw puluwanada?",
+    "answer": "Smoking at blood donation:\n\n**Can Smokers Donate?**\n• ✅ **Yes!** Smoking alone disqualify karanaw naa\n• Your blood still save lives karanaw puluwana\n\n**BUT Important Guidelines:**\n\n**Before Donation:**\n• ❌ **No smoking 2-3 hours before** donation\n• Nicotine blood vessels constrict karanaw\n• Harder veins find at needle insert\n• Blood pressure temporarily raise karanaw\n\n**After Donation:**\n• ❌ **No smoking 3-4 hours after** donation\n• Body recovering fluid loss\n• Smoking worsen dizziness at lightheadedness\n• Blood pressure drop + nicotine = faint risk\n\n**Vaping/E-cigarettes:**\n• Same guidelines apply karanaw\n• Nicotine same effect have regardless delivery method\n\n**Long-term Smokers:**\n• Hemoglobin levels affected possible (carbon monoxide bind)\n• Lung function reduced — lying down uncomfortable possible\n• Still eligible if hemoglobin levels meet minimum\n\n**Best Advice:**\n• Donation eka good motivation quit karanawa start!\n• Each donation save lives — including your own health motivation\n• SmartBlood track karanaw your health journey\n\nSmoke karanaw, but still hero karanaw puluwana — donate! 🦸"
+  },
+  {
+    "id": 39,
+    "category": "health",
+    "keywords": ["medication", "medicine", "pills", "drugs", "beheth"],
+    "question": "Medicine gananaw me donate karanaw puluwanada?",
+    "answer": "Medication at blood donation — depends what take:\n\n**✅ Usually OK (Can Donate):**\n• Birth control pills\n• Thyroid medication (if stable)\n• Blood pressure medication (if controlled)\n• Cholesterol medication (statins)\n• Antidepressants (most types)\n• Allergy medication (antihistamines)\n• Pain relievers (paracetamol, ibuprofen)\n• Vitamins at supplements\n\n**⏳ Temporary Deferral (Wait Period):**\n• **Aspirin** — Wait 48 hours (platelet donation only)\n• **Antibiotics** — Wait until course complete + 24 hours\n• **Antimalarials** — Wait 3 months after last dose\n• **Accutane (isotretinoin)** — Wait 1 month\n• **Finasteride (Propecia)** — Wait 1 month\n• **Dutasteride (Avodart)** — Wait 6 months\n\n**❌ Permanent Deferral:**\n• Blood thinners (Warfarin, Heparin) — while taking\n• Certain HIV medications\n• Some cancer treatments\n• Growth hormone from pituitary glands\n\n**Important:**\n• Always list ALL medications eligibility check time\n• Don't stop medication donate karanna! Health first\n• SmartBlood AI evaluate medication risk accurately\n• Doctor advice always follow\n\nMedication take, but still donate possible — check karanaw! 💊"
+  },
+  {
+    "id": 40,
+    "category": "health",
+    "keywords": ["menstruation", "period", "menstrual", "monthly cycle"],
+    "question": "Period time donate karanaw puluwanada?",
+    "answer": "Menstruation at blood donation:\n\n**Can You Donate During Period?**\n• ✅ **Yes!** Period time donate karanaw puluwana\n• Menstruation alone disqualify karanaw naa\n\n**BUT Consider These Factors:**\n\n**Hemoglobin Levels:**\n• Period time iron levels drop karanaw naturally\n• Heavy periods especially lower hemoglobin\n• Must still meet minimum: **12.5 g/dL women**\n• If hemoglobin low, temporarily deferred\n\n**How Feel:**\n• Severe cramps or pain — maybe postpone better\n• Feeling weak or tired — listen your body\n• Light period, feeling fine — go ahead!\n\n**Tips Period Time Donate:**\n• Iron-rich foods extra eat days before\n• Hydrate well — extra important\n• Bring pain medication if needed\n• Inform staff if feeling uncomfortable\n• Rest extra time after donation\n\n**Heavy Periods:**\n• If heavy periods regular, hemoglobin check extra important\n• Iron supplements consider\n• Doctor consult if periods excessively heavy\n• May need defer until period ends\n\n**SmartBlood Assessment:**\n• AI ask about menstrual health women\n• Recent period date consider eligibility\n• Hemoglobin prediction based cycle patterns\n\nYour body, your choice — but safety always first! 🌸"
+  },
+  {
+    "id": 41,
+    "category": "health",
+    "keywords": ["exercise", "gym", "workout", "sports", "running"],
+    "question": "Exercise karanaw before or after donate?",
+    "answer": "Exercise at blood donation guidelines:\n\n**Before Donation:**\n• ❌ **No heavy exercise** same day (before donation)\n• Light walking OK\n• No weightlifting, running, gym 12 hours before\n• Heavy exercise dehydrate karanaw\n• Tired muscles + blood loss = fatigue risk\n\n**After Donation:**\n• ❌ **No exercise 24 hours after** donation\n• Body recovering fluid loss\n• Heavy lifting avoid 24-48 hours\n• Needle site strain avoid\n\n**Exercise Timeline:**\n\n| Activity | When OK After Donation |\n|----------|------------------------|\n| Walking (light) | Same day |\n| Office work | Same day |\n| Light yoga | Next day |\n| Swimming | 24-48 hours |\n| Running/jogging | 24-48 hours |\n| Weightlifting | 48 hours |\n| Intense sports | 48-72 hours |\n| Marathon/competition | 1 week |\n\n**Athletes Special Note:**\n• Professional athletes plan donations off-season\n• Performance temporarily reduced 1-2 days\n• Hydration extra critical\n• Iron supplementation consider\n• VO2 max temporarily lower\n\n**Tips:**\n• Light stretching OK anytime\n• Listen your body — if tired, rest more\n• Extra protein at iron eat recovery time\n• Hydrate double normal amount\n\nFit people excellent donors! Just time exercise around donation wisely! 💪"
+  },
+  {
+    "id": 42,
+    "category": "health",
+    "keywords": ["anemia", "iron deficiency", "low iron", "weak blood"],
+    "question": "Anemia have me donate karanaw puluwanada?",
+    "answer": "Anemia at blood donation:\n\n**Short Answer:**\n• ❌ **Active anemia = Cannot donate**\n• Blood already low hemoglobin — donating make worse\n• Must treat anemia first\n\n**Types Anemia:**\n• **Iron Deficiency Anemia** — Most common, treatable\n• **Vitamin B12 Deficiency** — Diet or absorption issue\n• **Thalassemia Trait** — Genetic, may still donate if levels OK\n• **Sickle Cell Trait** — Usually can donate, full disease cannot\n\n**When Can Donate Again:**\n• Hemoglobin reach minimum level (Men: 13.0, Women: 12.5)\n• Doctor confirm anemia resolved\n• Iron stores replenished\n• Usually 3-6 months treatment after\n\n**Preventing Anemia (Frequent Donors):**\n• 🥩 Red meat, liver weekly eat\n• 🥬 Spinach, kale, broccoli daily\n• 🫘 Beans, lentils, chickpeas regularly\n• 🍊 Vitamin C with iron foods combine\n• 💊 Iron supplements if doctor recommend\n• ☕ Tea/coffee avoid 1 hour meals after\n\n**SmartBlood Protection:**\n• System track donation frequency\n• Alert if donating too frequently\n• Hemoglobin trend monitoring\n• Automatic cool-down periods enforce\n\nTreat anemia first, then become amazing donor! 💪🩸"
+  },
+  {
+    "id": 43,
+    "category": "health",
+    "keywords": ["cancer", "tumor", "chemotherapy", "oncology", "malignancy"],
+    "question": "Cancer have or had person donate karanaw puluwanada?",
+    "answer": "Cancer at blood donation — depends situation:\n\n**Currently Cancer Treatment:**\n• ❌ **Cannot donate** during active treatment\n• Chemotherapy, radiation affect blood quality\n• Immune system compromised\n• Body need all blood cells recovery for\n\n**Cancer Survivors:**\n• ⏳ **Wait period varies** cancer type by:\n\n| Cancer Type | Wait After Treatment |\n|------------|---------------------|\n| Minor skin cancer (basal/squamous) | ✅ After complete removal |\n| Blood cancers (leukemia, lymphoma) | ❌ Permanent deferral |\n| Most solid tumors | ⏳ 1-5 years cancer-free |\n| Melanoma | ❌ Usually permanent |\n\n**Eligible After Cancer If:**\n• Doctor confirm complete remission\n• Required wait period passed\n• No ongoing treatment\n• General health good\n• Blood tests normal\n\n**Blood Cancers (Permanent Deferral):**\n• Leukemia\n• Lymphoma\n• Multiple myeloma\n• These directly affect blood — permanent deferral\n\n**Important:**\n• Cancer survivors still contribute other ways!\n• Volunteer campaigns, awareness spreading\n• Encourage family at friends donate\n• SmartBlood community support\n\nCancer journey tough — respect at support always! 💛"
+  },
+  {
+    "id": 44,
+    "category": "health",
+    "keywords": ["surgery", "operation", "dental surgery", "teeth", "dental"],
+    "question": "Surgery or dental work donew donate karanaw puluwanada?",
+    "answer": "Surgery at dental procedures — wait periods:\n\n**Major Surgery:**\n• ⏳ Wait **6-12 months** after major surgery\n• Body need recover fully\n• Blood volume stabilize\n• No active healing wounds\n\n**Minor Surgery:**\n• ⏳ Wait **1-3 months** minor procedures after\n• Depends complexity at healing\n\n**Dental Procedures:**\n\n| Procedure | Wait Period |\n|-----------|------------|\n| Routine cleaning | ✅ 24 hours |\n| Filling | ✅ 24 hours |\n| Root canal | ⏳ 72 hours |\n| Tooth extraction | ⏳ 72 hours |\n| Dental surgery | ⏳ 1 month |\n| Gum surgery | ⏳ 1 month |\n\n**Why Wait After Dental:**\n• Mouth bacteria bloodstream enter karanaw (bacteremia)\n• Infection risk temporary have\n• Antibiotics complete karanaw need\n• Healing confirm karanaw need\n\n**Cosmetic Surgery:**\n• Depends on procedure\n• Liposuction, breast surgery — wait 6 months\n• Minor cosmetic — wait 1-3 months\n\n**Organ Transplant Recipients:**\n• ❌ Permanent deferral usually\n• Immunosuppressive drugs lifetime take\n\nSmartBlood AI calculate exact wait period your specific procedure for! 🏥"
+  },
+  {
+    "id": 45,
+    "category": "health",
+    "keywords": ["travel", "malaria", "dengue", "overseas", "foreign country"],
+    "question": "Overseas travel donew donate karanaw puluwanada?",
+    "answer": "Travel history at blood donation:\n\n**Malaria-Risk Countries:**\n• ⏳ Wait **3 months** after return\n• Malaria endemic areas: Africa, South/Southeast Asia parts, Central/South America\n• Even if took antimalarials\n• Even if no symptoms\n\n**Had Malaria:**\n• ⏳ Wait **3 years** after treatment complete\n• Must be symptom-free\n• Blood test confirm cleared\n\n**UK/Europe (Mad Cow Disease — vCJD):**\n• Some countries defer donors lived UK 1980-1996\n• Sri Lanka generally follow WHO guidelines\n• Disclose travel history always\n\n**Dengue Areas:**\n• Had dengue? Wait **4 weeks** after full recovery\n• Sri Lanka endemic — but recent active infection defer\n\n**Zika Virus Areas:**\n• ⏳ Wait **4 weeks** after return from Zika areas\n• Especially important — Zika blood transmit possible\n\n**General Travel:**\n• Healthy travel destinations — no deferral\n• Domestic travel Sri Lanka — no issues\n• Just ensure good health at not jet-lagged\n\n**Travel Checklist Before Donate:**\n✅ Where did you travel?\n✅ How long ago return?\n✅ Any illness during/after travel?\n✅ What medications took?\n✅ Any insect bites/symptoms?\n\nSmartBlood AI evaluate travel risk automatically! 🌍✈️"
+  },
+  {
+    "id": 46,
+    "category": "health",
+    "keywords": ["epilepsy", "seizure", "fits", "convulsion", "neurological"],
+    "question": "Epilepsy have me donate karanaw puluwanada?",
+    "answer": "Epilepsy at blood donation:\n\n**Generally Eligible If:**\n• ✅ Seizure-free **3+ years**\n• ✅ No longer taking anti-seizure medication\n• ✅ OR stable on medication with no recent seizures\n• ✅ Doctor approval obtained\n\n**Temporary Deferral:**\n• ⏳ Recent seizure (within 3 years)\n• ⏳ Medication recently changed\n• ⏳ Status epilepticus (prolonged seizure) recent\n\n**Concerns Donation Time:**\n• Lying down at stress could theoretically trigger\n• But very rare during donation\n• Staff trained handle if occurs\n• Inform staff always your condition about\n\n**Safety Measures:**\n• Staff monitor you closely\n• Extended rest period after donation\n• Someone accompany you if possible\n• Don't drive immediately after\n\n**Medication Note:**\n• Anti-seizure medications (Phenytoin, Carbamazepine, Valproate) usually not disqualify\n• Blood quality not affected medications by\n• Key factor = seizure control, not medication itself\n\nSmartBlood AI assess neurological conditions carefully. Full disclosure ensure safe donation! 🧠"
+  },
+  {
+    "id": 47,
+    "category": "health",
+    "keywords": ["thyroid", "hypothyroid", "hyperthyroid", "thyroid medication"],
+    "question": "Thyroid condition have me donate karanaw puluwanada?",
+    "answer": "Thyroid conditions at blood donation:\n\n**Hypothyroidism (Low Thyroid):**\n• ✅ **Can donate** if well-controlled on medication\n• Levothyroxine (Eltroxin) safe — not affect blood quality\n• TSH levels stable range within\n• Energy levels normal\n\n**Hyperthyroidism (Overactive Thyroid):**\n• ✅ **Can donate** if treated at stable\n• Methimazole/Carbimazole OK\n• Heart rate must normal range (60-100 bpm)\n• No active symptoms (tremor, weight loss, palpitations)\n\n**Thyroid Cancer:**\n• ⏳ Wait until treatment complete at cancer-free\n• If thyroidectomy done — wait healing complete\n• On thyroid replacement? OK after stable\n\n**Deferral Situations:**\n• ❌ Uncontrolled thyroid (hyper or hypo)\n• ❌ Recent thyroid surgery (wait 6 months)\n• ❌ Radioactive iodine treatment (wait 6 months)\n• ❌ Active thyroid storm\n\n**Tips Thyroid Patients:**\n• Take thyroid medication as usual donation day\n• Don't skip doses donate karanna\n• Inform staff your condition about\n• Bring medication list\n\nThyroid condition manage karanaw well? Donate karanaw puluwana — hero karanaw! 🦋"
+  },
+  {
+    "id": 48,
+    "category": "health",
+    "keywords": ["allergy", "allergic reaction", "hay fever", "food allergy"],
+    "question": "Allergy have me donate karanaw puluwanada?",
+    "answer": "Allergies at blood donation:\n\n**✅ Can Donate If:**\n• Seasonal allergies (hay fever, pollen)\n• Food allergies (not currently reacting)\n• Pet allergies\n• Mild dust allergies\n• Taking antihistamines (Cetirizine, Loratadine OK)\n\n**⏳ Temporary Deferral:**\n• Active allergic reaction ongoing\n• Severe hives or skin rash currently\n• Recent anaphylaxis episode (wait 1 month minimum)\n• Allergy shots (wait 24 hours after injection)\n• Currently taking oral steroids for allergies\n\n**❌ Cannot Donate:**\n• Having anaphylaxis right now (obviously!)\n• Severe chronic allergic conditions uncontrolled\n\n**Latex Allergy — Important!**\n• Tell staff IMMEDIATELY!\n• Hospital use latex gloves, tourniquets\n• Latex-free alternatives available\n• SmartBlood profile la latex allergy flag karanaw\n\n**Tips Allergy Sufferers:**\n• Take regular allergy meds as normal\n• Avoid known triggers donation day\n• Inform staff all allergies about\n• Carry emergency medication (EpiPen if prescribed)\n\nAllergies common! Most people with allergies excellent donors! 🌼"
+  },
+  {
+    "id": 49,
+    "category": "donation_process",
+    "keywords": ["first time", "first donor", "nervous", "scared", "baya", "palamuwa"],
+    "question": "First time donate karanaw — nervous me!",
+    "answer": "First time donation — completely normal nervous feel karanaw! 🤗\n\n**What Expect:**\n1. **Registration** (5 min) — Fill forms, show ID\n2. **Health Check** (10 min) — BP, hemoglobin, temperature\n3. **Donation** (8-10 min) — Lie down, small needle pinch\n4. **Rest** (10-15 min) — Snacks at drinks enjoy!\n\n**Tips First-Time Donors:**\n\n🍽️ **Before:**\n• Good meal eat 2-3 hours before\n• Water plenty drink (500ml+)\n• Good night sleep previous night\n• Comfortable clothes wear (easy arm access)\n\n😌 **During:**\n• Deep breaths take — relax!\n• Look away from needle if nervous\n• Music listen or staff talk\n• Squeeze stress ball — improve blood flow\n• Tell staff first time — extra care denawa!\n\n🎉 **After:**\n• Rest 10-15 minutes\n• Juice at biscuits enjoy\n• Arm bandage 4 hours keep\n• Heavy lifting avoid 24 hours\n\n**Common Fears Addressed:**\n• **\"Hurt karanawada?\"** — Small pinch 2-3 seconds, then nothing!\n• **\"Blood balanawa?\"** — Never! Sterile closed system\n• **\"Faint karanawada?\"** — Less than 1%! Staff trained help\n• **\"Needle loku?\"** — Small gauge, barely feel\n• **\"Time ganan?\"** — Actual draw only 8-10 minutes!\n\n**SmartBlood First Timer Bonus:**\n• 🏆 \"First Drop\" badge earn karanaw!\n• Extra XP first donation for!\n• Welcome to hero community!\n\nYou got this! Thousands donate safely every day! 💪🩸"
+  },
+  {
+    "id": 50,
+    "category": "health",
+    "keywords": ["needle fear", "needle phobia", "trypanophobia", "injection baya"],
+    "question": "Needle baya me — donate karanaw puluwanada?",
+    "answer": "Needle fear (Trypanophobia) very common — you alone naa! 🤝\n\n**Statistics:**\n• 25% adults have some needle fear\n• 7% have severe needle phobia\n• Many overcome it at become regular donors!\n\n**Tips Overcome Needle Fear:**\n\n🧠 **Mental Preparation:**\n• Remember WHY donating — saving 3 lives!\n• Visualize positive outcome\n• \"I am brave\" repeat — self-talk powerful!\n• Focus on reward (XP, badges, hero feeling)\n\n👀 **During Donation:**\n• **DON'T look** at the needle!\n• Look away, close eyes, or watch phone\n• Music listen — earphones bring!\n• Deep breathing: 4 seconds in, 4 seconds hold, 4 seconds out\n• Talk to staff — they distract you!\n• Squeeze stress ball other hand\n\n🏥 **Tell the Staff:**\n• Say \"needle baya me\" — NO SHAME!\n• Staff extra gentle with nervous donors\n• They experienced help thousands\n• Can apply numbing cream if available\n\n**Reality Check:**\n• Needle very thin (16-17 gauge)\n• Pinch only 2-3 seconds\n• After insertion, NO pain\n• 8-10 minutes then done!\n• Literally less painful than stubbing toe!\n\n**After First Time:**\n• 90% say \"That wasn't bad at all!\"\n• Each time easier\n• Fear decrease with experience\n• You become inspiration others!\n\nBrave donors are made, not born! You can do this! 🦸💉"
+  },
+  {
+    "id": 51,
+    "category": "donation_process",
+    "keywords": ["after donation", "post donation", "recovery", "care after"],
+    "question": "Donate karanaw passe ki karanaw oni?",
+    "answer": "Post-donation care important quick recovery:\n\n**Immediately After (First 30 Minutes):**\n• 🪑 Rest area sit 10-15 minutes\n• 🥤 Juice or water drink — hydrate!\n• 🍪 Snacks eat — biscuits, cookies\n• 💪 Bandage arm firm keep\n• ❌ Don't rush leave\n\n**Next 4 Hours:**\n• 🩹 Bandage keep on 4 hours minimum\n• 💧 Extra fluids drink (water, juice, ORS)\n• 🚫 Heavy lifting avoid — especially donation arm\n• 🚗 Drive carefully — if dizzy, wait\n• 🚭 No smoking 3-4 hours\n\n**Next 24 Hours:**\n• 🍽️ Iron-rich meal eat (red meat, beans, spinach)\n• 💧 Extra 4-6 glasses water drink\n• 🏋️ No gym, heavy exercise, or sports\n• 🍺 No alcohol 24 hours\n• 😴 Good night sleep get\n\n**Next 48-72 Hours:**\n• Gradually normal activity resume\n• Light exercise OK after 24 hours\n• Intense exercise after 48 hours\n• Continue iron-rich diet 1-2 weeks\n\n**If Problems Occur:**\n• **Bruising** — Ice apply, normal 1-2 days heal\n• **Dizziness** — Lie down, legs elevate, drink fluids\n• **Bleeding restart** — Press firmly 5 minutes, arm elevate\n• **Feeling faint** — Sit/lie immediately, head between knees\n• **Persistent issues** — Contact hospital or SmartBlood support\n\n**SmartBlood Post-Donation:**\n• System send recovery tips notification\n• Track next eligible donation date\n• Remind iron-rich food suggestions\n• XP at badges automatically update!\n\nRecover well — you HERO! 🦸‍♀️🩸"
+  },
+  {
+    "id": 52,
+    "category": "health",
+    "keywords": ["hydration", "water", "dehydration", "fluids", "wathura"],
+    "question": "Blood donate karanaw odata wathura kiyapayak bonna oni?",
+    "answer": "Hydration SUPER important blood donation:\n\n**Before Donation:**\n• 💧 **500ml water** drink 1-2 hours before\n• 💧 Day before — at least **2-3 liters** total fluids\n• 💧 Morning of donation — 2-3 glasses water\n• ✅ ORS (Jeevani) packet excellent!\n• ✅ Coconut water (thambili) — natural electrolytes! 🥥\n• ✅ Fresh juice OK\n• ❌ Coffee/tea limit — caffeine dehydrate\n• ❌ Alcohol avoid completely\n\n**Why Hydration Matters:**\n• Blood 55% water based\n• Hydrated veins easier find — less needle pokes!\n• Prevent dizziness at fainting\n• Faster blood flow — donation quicker!\n• Recovery faster post-donation\n\n**After Donation:**\n• 💧 **Extra 4-6 glasses** water next 24 hours\n• 💧 Total **3-4 liters** day of donation\n• ✅ ORS packet excellent recovery\n• ✅ Coconut water ideal! 🥥\n• ✅ Fresh fruit juice\n• ✅ Soup — warm fluids with electrolytes\n• ❌ Caffeinated drinks limit\n• ❌ Alcohol avoid 24 hours\n\n**Signs Dehydration (Watch For):**\n• 🟡 Dark yellow urine\n• 😵 Dizziness or lightheadedness\n• 🤕 Headache\n• 👅 Dry mouth\n• 😴 Excessive fatigue\n\n**Sri Lanka Special:**\n• King coconut (thambili) BEST natural hydrator!\n• Lime juice with salt — cheap at effective\n• Belimal, nelli juice — traditional at hydrating\n• Avoid ice cream/sugary drinks — don't hydrate well\n\nWathura bonna — save lives karanaw easier! 💧🩸"
+  },
+  {
+    "id": 53,
+    "category": "blood_types",
+    "keywords": ["rare blood", "rare type", "uncommon", "special blood"],
+    "question": "Rare blood types mokada? Special important mokada?",
+    "answer": "Rare blood types at their importance:\n\n**Rarest Blood Types (Sri Lanka):**\n• **AB-** — Rarest! Less than 1% population\n• **B-** — About 2% population\n• **A-** — About 3% population\n• **O-** — About 4% population (but MOST needed!)\n\n**Why Rare Types EXTRA Valuable:**\n\n🏆 **O- (Universal Donor):**\n• ANY blood type receive karanaw puluwana\n• Emergency use #1 — when no time blood type check\n• Newborn babies primarily receive O-\n• Trauma victims first get O-\n• **ALWAYS in short supply!**\n\n🏆 **AB+ (Universal Plasma Donor):**\n• AB plasma ANY patient receive karanaw\n• Burn victims, liver disease — AB plasma critical\n• Only 7.2% Sri Lankan population!\n\n🏆 **AB- (Rarest):**\n• Can receive from ANY negative type\n• Extremely rare donor pool\n• Each AB- donor PRECIOUS!\n\n**Bombay Blood Group (Oh):**\n• Extremely rare — 1 in 10,000 globally\n• Can only receive from same Bombay type\n• Found occasionally India at Sri Lanka\n• SmartBlood register karanaw Bombay type donors specially\n\n**Rare Type Donor Benefits SmartBlood:**\n• 🏅 \"Rare Gem\" special badge!\n• ⭐ Extra XP multiplier rare types for\n• 🔔 Priority emergency alerts\n• 🌟 Featured donor recognition\n\n**If You're Rare Type:**\n• Please donate regularly!\n• Register SmartBlood — emergency contact list\n• Encourage same-type family members register\n• Your blood literally irreplaceable!\n\nRare blood = Rare hero! 🦸‍♂️💎"
+  },
+  {
+    "id": 54,
+    "category": "blood_types",
+    "keywords": ["universal donor", "universal recipient", "o negative", "ab positive"],
+    "question": "Universal donor at universal recipient koida?",
+    "answer": "Universal donor at recipient explained:\n\n🩸 **Universal RED CELL Donor: O-**\n• O- red blood cells ANYONE receive karanaw\n• No A, B antigens on cells — no rejection\n• Emergency first-choice blood type\n• Newborn babies primarily receive O-\n• **Only ~4% Sri Lankan population!**\n• MOST critical blood type short supply\n\n🩸 **Universal RED CELL Recipient: AB+**\n• AB+ people ANY blood type red cells receive karanaw\n• Has all antigens — body won't reject any type\n• Lucky receivers!\n• But WORST donors for red cells (only AB+ can receive)\n\n🟡 **Universal PLASMA Donor: AB (any Rh)**\n• AB plasma anyone receive karanaw\n• Plasma no blood group antigens have\n• Burn victims, liver failure critical need\n• AB donors — donate plasma especially!\n\n🟡 **Universal PLASMA Recipient: O**\n• O type can receive any plasma\n• But best match always same type\n\n**Quick Summary:**\n\n| Title | Blood Type | Why |\n|-------|-----------|-----|\n| Universal Red Cell Donor | O- | Everyone can receive |\n| Universal Red Cell Recipient | AB+ | Can receive from everyone |\n| Universal Plasma Donor | AB | Everyone can receive plasma |\n| Universal Platelet Donor | O | Compatible most widely |\n\n**Know Your Type:**\n• SmartBlood profile la blood type save karanaw\n• Emergency time instant match karanaw\n• Donate what YOUR type best karanaw!\n\nEvery type important — but know your superpower! 🦸"
+  },
+  {
+    "id": 55,
+    "category": "donation_process",
+    "keywords": ["how much blood", "blood volume", "amount", "kiyapayak", "quantity"],
+    "question": "Blood kiyapayak gannawa ekpara donate ekata?",
+    "answer": "Blood donation volumes:\n\n**Standard Whole Blood Donation:**\n• **450ml (approximately 1 pint)** collected each time\n• About **8-10% your total blood volume**\n• Average adult have 4.5-5.5 liters total blood\n• So 450ml small percentage — safe!\n\n**Other Donation Types:**\n\n| Type | Volume Collected | What's Returned |\n|------|-----------------|----------------|\n| Whole Blood | 450ml all | Nothing |\n| Platelets | ~200ml platelets | Red cells returned |\n| Plasma | ~500ml plasma | Red cells returned |\n| Double Red | 2 units red cells | Plasma returned |\n\n**Body Recovery:**\n• **Plasma** — Replaced within **24 hours**!\n• **Red Blood Cells** — Replaced within **4-8 weeks**\n• **Platelets** — Replaced within **72 hours**\n• **Iron stores** — Take **several weeks** replenish fully\n\n**Weight-Based Safety:**\n• Minimum weight 50kg — ensures safe volume\n• Heavier donors tolerate better\n• Volume adjusted if needed\n• Never more than 10.5ml per kg body weight\n\n**Fun Math:**\n• Average 5 liters blood body la\n• 450ml donate karanaw\n• 4.55 liters still remaining!\n• Body immediately compensate start karanaw\n• Heart rate slightly increase temporarily blood pump\n\nSmall amount, MASSIVE impact — 3 lives save! 🩸❤️"
+  },
+  {
+    "id": 56,
+    "category": "donation_process",
+    "keywords": ["donation frequency", "how often", "gap between", "kopon koti", "interval"],
+    "question": "Kopon koti donate karanaw puluwana?",
+    "answer": "Donation frequency guidelines:\n\n**Whole Blood:**\n• 👨 **Men: Every 56 days** (8 weeks) = Max **6 times/year**\n• 👩 **Women: Every 84 days** (12 weeks) = Max **4 times/year**\n• Why difference? Women lose iron monthly menstruation through\n\n**Platelet Donation:**\n• Every **7 days** minimum\n• Maximum **24 times per year**\n• Body replace platelets quickly (72 hours)\n\n**Plasma Donation:**\n• Every **28 days**\n• Body replace plasma 24-48 hours within\n• More frequent than whole blood\n\n**Double Red Cell:**\n• Every **112 days** (16 weeks)\n• Double the red cells taken\n• Longer recovery needed\n\n**Why Gaps Important:**\n• 🩸 Red blood cells fully regenerate need time\n• 💊 Iron stores replenish need time\n• 💪 Body strength recover\n• ⚠️ Too frequent = anemia risk\n\n**SmartBlood Smart Tracking:**\n• System automatically calculate next eligible date\n• Notification send karanaw when eligible again\n• Block early booking — safety first!\n• Track cumulative yearly donations\n• Alert if approaching maximum\n\n**Pro Tip:**\n• Alternate whole blood at platelet donations\n• Maximize impact while staying safe\n• Iron supplements take between donations\n• Regular donors healthier than non-donors! 📊\n\nDonate regularly, but safely — SmartBlood manage karanaw! 📅🩸"
+  },
+  {
+    "id": 57,
+    "category": "blood_storage",
+    "keywords": ["blood expire", "shelf life", "storage", "preserve", "keep"],
+    "question": "Blood kiyapayak kaalayak store karanaw puluwana?",
+    "answer": "Blood storage at shelf life:\n\n**Storage Duration by Component:**\n\n| Component | Storage Temp | Shelf Life |\n|-----------|-------------|------------|\n| 🔴 Red Blood Cells | 2-6°C (refrigerator) | **42 days** |\n| 🟡 Platelets | 20-24°C (room temp, agitated) | **5 days only!** |\n| 🟠 Fresh Frozen Plasma | -18°C or below | **1 year** |\n| 🟠 Cryoprecipitate | -18°C or below | **1 year** |\n| 🔴 Frozen Red Cells | -65°C or below | **10 years** |\n\n**Why Platelets So Short:**\n• Must store room temperature\n• Constant agitation (rocking machine)\n• Bacterial contamination risk increases\n• **5 days = constant supply needed!**\n• This why platelet donors CRUCIAL!\n\n**Blood Bag Contents:**\n• Blood + anticoagulant solution (CPDA-1 or SAG-M)\n• Prevents clotting\n• Preserves cells\n• Provides nutrients cells alive keep\n\n**SmartBlood Expiry Management:**\n• 📊 Track every unit expiry date\n• 🔔 Alert 7 days before expiry\n• 🔄 FIFO system (First In, First Out)\n• 📉 Waste reduction AI optimize\n• 🏥 Hospital exchange near-expiry units\n\n**Expired Blood:**\n• ❌ NEVER transfused — dangerous!\n• Hemolyzed (cells broken) — toxic\n• Properly disposed medical waste as\n• SmartBlood prevent waste through smart forecasting\n\n**Fun Fact:**\nSri Lanka annually wastes 5-8% blood expiry due — SmartBlood aim reduce this 1% below! 🎯"
+  },
+  {
+    "id": 58,
+    "category": "blood_processing",
+    "keywords": ["blood process", "separation", "component preparation", "what happens blood"],
+    "question": "Donate karanaw passe blood ekata mokada karanaw?",
+    "answer": "Your donated blood journey — fascinating process! 🔬\n\n**Step 1: Collection (At Donation Site)**\n• Blood collected sterile bag into\n• Anticoagulant mixed immediately\n• Labeled with unique barcode\n• Temperature controlled transport\n\n**Step 2: Testing (Laboratory)**\n• Blood type confirm (ABO + Rh)\n• Infectious disease screening:\n  - HIV, Hepatitis B, Hepatitis C\n  - Syphilis, HTLV\n• Antibody screening\n• Results usually 24 hours within\n\n**Step 3: Component Separation**\n• Centrifuge machine use karanaw\n• Spinning separates blood density by:\n  - Heavy → Red Blood Cells (bottom)\n  - Middle → White Blood Cells + Platelets (buffy coat)\n  - Light → Plasma (top)\n• **1 donation → 3 products!**\n\n**Step 4: Processing**\n• Red cells: Leukoreduced (white cells removed)\n• Platelets: Pooled from multiple donations or apheresis\n• Plasma: Frozen within 8 hours (Fresh Frozen Plasma)\n• Each component packaged separately\n\n**Step 5: Storage**\n• Red cells → Refrigerator (2-6°C)\n• Platelets → Room temp agitator (20-24°C)\n• Plasma → Freezer (-18°C)\n\n**Step 6: Distribution**\n• Hospital order blood bank from\n• Crossmatch karanaw patient compatible\n• Transport cold chain maintain\n• Transfuse patient within hours\n\n**Step 7: Transfusion**\n• Patient receive component they need\n• Monitor for reactions\n• **Your blood save someone's life!** ❤️\n\n**Timeline:**\n• Donation → Testing: Same day\n• Testing → Available: 24-48 hours\n• Available → Used: Days to weeks\n• Your 8 minutes → Someone's lifetime! 🩸"
+  },
+  {
+    "id": 59,
+    "category": "campaigns",
+    "keywords": ["campaign", "blood drive", "donation camp", "event", "organize"],
+    "question": "Blood donation campaign kohomat organize karanaw?",
+    "answer": "SmartBlood Campaign Manager la blood drives organize:\n\n**Creating Campaign (Hospital/Organization):**\n1. Dashboard → **Campaign Manager**\n2. Set campaign details:\n   • 📛 Campaign name\n   • 📅 Date at time\n   • 📍 Location (hospital or mobile site)\n   • 🩸 Target blood types needed\n   • 🎯 Donor target number\n   • 📝 Description at instructions\n3. Generate **QR Code** promotional material for\n4. Publish — donors nearby notified!\n\n**Campaign Features:**\n• 📊 Real-time registration tracking\n• 📱 QR code check-in fast\n• 🗺️ Map location donors navigate\n• 📢 Push notifications nearby donors\n• 📈 Live dashboard — donors registered vs target\n• 🏆 Special campaign badges donors for\n\n**Types Campaigns:**\n• 🏥 **Hospital-based** — Regular at hospital blood bank\n• 🚐 **Mobile Blood Drive** — Schools, offices, temples\n• 🆘 **Emergency Campaign** — Urgent shortage response\n• 🎉 **Community Event** — Festival, holiday special drives\n• 🏢 **Corporate Campaign** — Company CSR blood drives\n\n**Campaign Success Tips:**\n• Social media share karanaw widely\n• QR code posters distribute\n• Local community leaders involve\n• Refreshments arrange donors for\n• SmartBlood gamification use — campaign badges!\n\n**SmartBlood Campaign Analytics:**\n• Donors reached vs registered vs actual\n• Blood types collected breakdown\n• Geographic reach analysis\n• Donor satisfaction feedback\n• ROI comparison campaigns between\n\nOrganize campaign, save more lives! 📢🩸"
+  },
+  {
+    "id": 60,
+    "category": "general",
+    "keywords": ["world blood donor day", "june 14", "awareness day", "celebration"],
+    "question": "World Blood Donor Day mokada?",
+    "answer": "World Blood Donor Day — June 14! 🌍🩸\n\n**About:**\n• Celebrated every year **June 14**\n• Started 2004 by WHO\n• Date = Karl Landsteiner birthday (discovered blood groups!)\n• Theme changes yearly\n\n**Purpose:**\n• 🙏 Thank voluntary blood donors worldwide\n• 📢 Raise awareness blood donation importance\n• 🏥 Encourage governments support blood services\n• 🩸 Promote regular voluntary donation\n\n**Sri Lanka Celebrations:**\n• National Blood Transfusion Service events\n• Hospital blood drives islandwide\n• Award ceremonies top donors for\n• Media campaigns at awareness programs\n• School at university blood drives\n\n**SmartBlood Special June 14:**\n• 🏆 **Special \"World Donor Day\" badge** — donate on June 14!\n• ⭐ **Double XP** all donations that week\n• 📢 **Special campaigns** hospitals organize\n• 🏅 **Top donor recognition** yearly awards\n• 📊 **Annual statistics** release\n\n**How You Celebrate:**\n• Donate blood! Best celebration!\n• Share awareness social media\n• Encourage friends at family donate\n• Thank donors you know\n• Attend local blood drive events\n\n**Karl Landsteiner:**\n• Austrian biologist (1868-1943)\n• Discovered ABO blood group system 1901\n• Won Nobel Prize Medicine 1930\n• Made safe blood transfusion possible\n• Saved millions lives discovery through!\n\nMark your calendar — June 14 = Hero Day! 🦸🗓️"
+  },
+  {
+    "id": 61,
+    "category": "eligibility",
+    "keywords": ["age limit", "too young", "too old", "teenager", "elderly", "waya"],
+    "question": "Blood donate karanna age limit mokada?",
+    "answer": "Age requirements blood donation:\n\n**Minimum Age:**\n• ✅ **18 years** — Standard minimum age Sri Lanka\n• 16-17 years — Some countries allow with parental consent\n• Under 18 — ❌ Cannot donate Sri Lanka la\n\n**Maximum Age:**\n• ✅ **65 years** — Standard upper limit\n• 65+ years — Case-by-case basis with doctor approval\n• First-time donors over 60 — Usually not accepted\n• Regular donors over 65 — May continue if healthy\n\n**Age Considerations:**\n\n| Age Group | Status | Notes |\n|-----------|--------|-------|\n| Under 18 | ❌ Not eligible | Body still developing |\n| 18-25 | ✅ Ideal | Young, healthy, fast recovery |\n| 26-45 | ✅ Prime | Most active donor group |\n| 46-55 | ✅ Excellent | Experienced, reliable donors |\n| 56-65 | ✅ Eligible | With good health |\n| 65+ | ⚠️ Special approval | Doctor assessment needed |\n\n**Why Age Limits:**\n• Under 18 — Body still growing, blood volume developing\n• Over 65 — Higher risk cardiovascular issues\n• Hemoglobin levels vary age with\n• Recovery time increase age with\n\n**SmartBlood Age Verification:**\n• Registration time NIC/birthday verify\n• System automatically check age eligibility\n• Birthday approach 65 — notification send\n• Senior donors special monitoring\n\n**Encouragement:**\n• 18th birthday = first donation! Great tradition!\n• Young donors = future blood supply security!\n• Every age group heroes have!\n\nAge just number — healthy people any eligible age save lives! 🎂🩸"
+  },
+  {
+    "id": 62,
+    "category": "eligibility",
+    "keywords": ["weight limit", "too thin", "underweight", "overweight", "bara"],
+    "question": "Blood donate karanna weight requirement mokada?",
+    "answer": "Weight requirements blood donation:\n\n**Minimum Weight:**\n• ✅ **50kg (110 lbs)** minimum required\n• Below 50kg — ❌ Cannot donate\n\n**Why Minimum Weight:**\n• 450ml blood = significant portion small body mass\n• Lighter people — higher percentage blood lost\n• Risk dizziness, fainting much higher\n• Hemoglobin levels may be lower\n• Body take longer recover\n\n**Maximum Weight:**\n• No strict maximum weight limit\n• Very heavy donors — practical considerations:\n  - Vein access may be harder\n  - Blood pressure cuff size\n  - Donation bed weight capacity\n  - But generally welcome!\n\n**BMI Considerations:**\n• Very low BMI (underweight) — defer until healthy weight\n• Normal BMI — ideal donor\n• Overweight BMI — usually OK if otherwise healthy\n• Obese — case by case, vein access check\n\n**Tips Underweight Persons:**\n• Healthy weight gain through nutrition\n• High-protein, calorie-dense foods\n• Once reach 50kg+ — welcome donate!\n• Don't try gain weight unhealthily just donate karanna\n\n**Tips Overweight Persons:**\n• Most overweight persons excellent donors!\n• Larger blood volume = easier donation\n• Better tolerance blood loss\n• Just ensure blood pressure normal range\n\nSmartBlood registration weight record karanaw at eligibility automatically calculate! ⚖️🩸"
+  },
+  {
+    "id": 63,
+    "category": "health",
+    "keywords": ["blood pressure", "hypertension", "low bp", "high bp", "pressure eka"],
+    "question": "Blood pressure issues have me donate karanaw puluwanada?",
+    "answer": "Blood pressure at donation eligibility:\n\n**Acceptable Range Donation:**\n• **Systolic:** 90-180 mmHg\n• **Diastolic:** 60-100 mmHg\n• Checked EVERY donation before\n\n**High Blood Pressure (Hypertension):**\n• ✅ **Can donate if:**\n  - BP below 180/100 at donation time\n  - On medication at well-controlled\n  - No recent hypertensive crisis\n  - Feel well overall\n\n• ❌ **Deferred if:**\n  - BP above 180/100 at check\n  - Uncontrolled hypertension\n  - Recent medication change\n  - Symptoms (headache, dizziness, chest pain)\n\n**Low Blood Pressure (Hypotension):**\n• ✅ **Can donate if:**\n  - BP above 90/60\n  - Feel normal, no symptoms\n  - Some naturally low BP — OK!\n\n• ❌ **Deferred if:**\n  - BP below 90/60\n  - Feeling dizzy or lightheaded\n  - Blood loss worsen hypotension\n\n**BP Medications at Donation:**\n• Most BP medications OK for donation\n• ACE inhibitors, ARBs, Beta-blockers — safe\n• Calcium channel blockers — safe\n• Don't skip medication donate karanna!\n\n**Tips BP Issues:**\n• Regular medication take as prescribed\n• Good hydration before donation — stabilize BP\n• Avoid caffeine morning of donation\n• Relax before BP check — anxiety raise reading\n• Deep breaths take measurement time\n\n**SmartBlood BP Tracking:**\n• Every donation BP recorded\n• Trend analysis over time\n• Alert if BP trending concerning\n• AI factor BP into eligibility score\n\nBP controlled? Hero karanaw puluwana! 💪🩸"
+  },
+  {
+    "id": 64,
+    "category": "health",
+    "keywords": ["dengue", "dengue fever", "mosquito", "tropical disease"],
+    "question": "Dengue donew blood donate karanaw puluwanada?",
+    "answer": "Dengue fever at blood donation — Sri Lanka relevant topic! 🦟\n\n**Had Dengue Recently:**\n• ⏳ Wait **minimum 4 weeks** after FULL recovery\n• Must be:\n  - Fever-free without medication\n  - Platelet count back normal (150,000-400,000)\n  - No bleeding symptoms\n  - Energy fully restored\n  - Doctor confirm recovery\n\n**Why Wait Period:**\n• Dengue virus may still circulate blood 2-3 weeks\n• Platelet count take time normalize\n• Immune system need recover\n• Risk transmitting virus through blood\n• Body weak — donation worsen recovery\n\n**Dengue Hemorrhagic Fever (DHF):**\n• More severe form — longer recovery\n• ⏳ Wait **minimum 6 months** after DHF\n• Complete recovery essential\n• Doctor clearance required\n\n**Multiple Dengue Infections:**\n• Had dengue more than once? Still donate karanaw puluwana after recovery\n• But each subsequent infection more severe possible\n• Full recovery confirm each time\n\n**Dengue Season (Sri Lanka):**\n• Peak: May-July at November-January\n• Blood shortages common during dengue season!\n• Dengue patients NEED blood at platelets\n• Healthy donors EXTRA important this time!\n\n**Prevention While Being Donor:**\n• Mosquito repellent use regularly\n• Stagnant water around home eliminate\n• Long sleeves/pants wear dawn at dusk\n• Healthy donors = lifeline dengue patients for!\n\n**SmartBlood Dengue Season:**\n• Extra campaigns organize during dengue peaks\n• Platelet donation specially promote\n• Emergency dispatch activate dengue patients for\n• Stock alerts critical during season\n\nDengue survivor? Recover fully, then save others! 🦸🩸"
+  },
+  {
+    "id": 65,
+    "category": "health",
+    "keywords": ["kidney", "kidney disease", "dialysis", "renal"],
+    "question": "Kidney disease have me donate karanaw puluwanada?",
+    "answer": "Kidney disease at blood donation:\n\n**Kidney Disease Types at Eligibility:**\n\n**Mild Kidney Issues:**\n• ✅ Past kidney stones (fully recovered) — can donate\n• ✅ Single kidney (if functioning well) — usually can donate\n• ✅ Past kidney infection (UTI, fully treated) — can donate after recovery\n\n**Chronic Kidney Disease (CKD):**\n• ❌ **Generally cannot donate**\n• Kidneys filter blood — compromised function affect blood quality\n• Body can't handle fluid loss well\n• Anemia common CKD with — hemoglobin low\n\n**Dialysis Patients:**\n• ❌ **Cannot donate**\n• Kidneys not functioning adequately\n• Dialysis patients RECEIVE blood frequently\n• Anemia major issue dialysis patients\n\n**Kidney Transplant Recipients:**\n• ❌ **Cannot donate**\n• Immunosuppressive drugs lifetime take\n• Infection risk higher\n• Blood quality affected medications by\n\n**Kidney Donors (Living Donors):**\n• ⚠️ Special consideration\n• Single kidney remaining — usually can donate blood if kidney healthy\n• Doctor approval essential\n• Regular kidney function monitoring\n\n**Kidney Stones:**\n• ✅ Past stones, fully resolved — can donate!\n• ⏳ Currently passing stone — wait until resolved\n• Stay well hydrated — benefit both kidneys AT donation!\n\nKidney health important — take care AT save lives when eligible! 🩸"
+  },
+  {
+    "id": 66,
+    "category": "health",
+    "keywords": ["liver", "hepatitis", "jaundice", "liver disease"],
+    "question": "Liver disease or jaundice donew donate karanaw puluwanada?",
+    "answer": "Liver disease at blood donation — important topic:\n\n**Hepatitis B:**\n• ❌ **Permanent deferral** if ever tested positive HBsAg\n• Even if \"carrier\" with no symptoms\n• Hepatitis B transmit blood through!\n• Vaccinated against Hep B? ✅ That's fine — means protected\n\n**Hepatitis C:**\n• ❌ **Permanent deferral** if ever had Hepatitis C\n• Even if treated at \"cured\" (SVR achieved)\n• Risk still present — cannot donate\n\n**Hepatitis A:**\n• ✅ **Can donate** after full recovery\n• ⏳ Wait 1 year after recovery\n• Hep A not chronic — body clear completely\n• Not transmitted blood through (fecal-oral route)\n\n**Jaundice (Not Hepatitis):**\n• ⏳ Wait **1 year** after jaundice resolved\n• Cause determine karanaw important\n• If jaundice from Hep B/C — permanent deferral\n• If jaundice from other causes (gallstones, Gilbert's) — may donate after recovery\n\n**Fatty Liver:**\n• ✅ Generally can donate if liver function tests normal\n• Mild fatty liver common — not disqualify\n• Severe fatty liver (NASH) — case by case\n\n**Cirrhosis:**\n• ❌ Cannot donate\n• Liver severely damaged\n• Clotting factor production impaired\n• Blood quality compromised\n\n**All Donated Blood Tested:**\n• HBsAg (Hepatitis B surface antigen)\n• Anti-HCV (Hepatitis C antibodies)\n• If positive — blood discarded, donor notified confidentially\n\nLiver health critical blood quality — honest disclosure save lives! 🩸"
+  },
+  {
+    "id": 67,
+    "category": "donation_process",
+    "keywords": ["blood bag", "collection bag", "equipment", "needle size"],
+    "question": "Blood donation equipment mokada use karanaw?",
+    "answer": "Blood donation equipment — all sterile at safe! 🏥\n\n**Collection Equipment:**\n\n💉 **Needle:**\n• Size: 16-17 gauge (slightly larger than regular needle)\n• Single-use, sterile, individually packed\n• Used ONCE then safely disposed\n• Sharp bevel — minimal pain insertion\n\n🩸 **Blood Bag System:**\n• **Primary bag** — Blood collected here (450ml)\n• **Satellite bags** — Connected for component separation\n• Contains anticoagulant solution (CPDA-1)\n• Keeps blood from clotting\n• Closed system — no air exposure!\n\n🏷️ **Labels at Barcodes:**\n• Unique barcode each donation\n• Donor ID, blood type, date, expiry\n• Tracking from collection → transfusion\n• SmartBlood barcode system integrate!\n\n🩺 **Other Equipment:**\n• Blood pressure cuff (sphygmomanometer)\n• Hemoglobin meter (portable)\n• Thermometer\n• Alcohol swabs (arm cleaning)\n• Tourniquet (arm for vein visibility)\n• Cotton at bandage (after donation)\n• Scale (blood bag weighing — ensure correct volume)\n\n⚖️ **Blood Mixer/Scale:**\n• Gently rocks bag during collection\n• Mixes blood with anticoagulant\n• Weighs blood — stops at 450ml\n• Beeps when collection complete!\n\n🧤 **Personal Protective Equipment:**\n• Sterile gloves (new each donor)\n• Face mask (staff)\n• Apron/gown\n\n**Safety Guarantee:**\n• ALL equipment single-use disposable\n• NO reuse EVER — impossible get infection\n• Hospital-grade sterilization\n• WHO standards follow\n• Regular quality audits\n\nEverything designed YOUR safety — relax at donate! 🦸🩸"
+  },
+  {
+    "id": 68,
+    "category": "hospital",
+    "keywords": ["hospital exchange", "transfer blood", "share blood", "exchange network"],
+    "question": "Hospital exchange network kohomat work karanaw?",
+    "answer": "SmartBlood Hospital Exchange Network — revolutionary feature! 🏥🔄🏥\n\n**What Is It:**\n• Hospitals blood units share karanaw each other with\n• Real-time stock visibility all hospitals\n• Prevent shortage one hospital while another has excess\n• Like Uber — but for blood units between hospitals!\n\n**How It Works:**\n\n1. **Hospital A** — Low on B+ blood 🔴\n2. **Check Network** — See all nearby hospitals stock\n3. **Hospital B** — Has excess B+ units 🟢\n4. **Request Transfer** — Hospital A request send\n5. **Hospital B Approve** — Accept transfer request\n6. **Transport** — Blood safely transported cold chain\n7. **Receive at Confirm** — Hospital A stock updated!\n\n**Features:**\n• 📊 **Real-Time Dashboard** — All hospitals stock visible\n• 🗺️ **Map View** — Nearest hospitals with needed blood\n• 📱 **Instant Notifications** — Request/approve/transport alerts\n• ❄️ **Cold Chain Tracking** — Temperature monitoring transport\n• 📋 **Transfer Records** — Complete audit trail\n• ⏰ **Expiry Priority** — Near-expiry units transferred first (reduce waste!)\n\n**Benefits:**\n• 🚫 **Zero wastage** — Excess units used not expired\n• 🆘 **Emergency supply** — Critical needs met faster\n• 💰 **Cost saving** — Less unused blood discarded\n• 🤝 **Collaboration** — Hospitals work together\n• 📈 **Data insights** — Demand patterns understand\n\n**Exchange Rules:**\n• All units must be tested at labeled\n• Cold chain maintained throughout transport\n• Receiving hospital verify at accept\n• Both hospitals records updated SmartBlood la\n\nSmartBlood exchange network make Sri Lanka blood supply truly NATIONAL! 🇱🇰🩸"
+  },
+  {
+    "id": 69,
+    "category": "general",
+    "keywords": ["who needs blood", "patients", "transfusion need", "blood use"],
+    "question": "Blood transfusion koida need karanaw?",
+    "answer": "Many people blood transfusions need — your donation critical! ❤️\n\n**Emergency Patients:**\n• 🚗 **Accident/Trauma victims** — May need 50-100+ units!\n• 🔪 **Stabbing/Gunshot wounds** — Massive blood loss\n• 🤰 **Childbirth complications** — Postpartum hemorrhage\n• 🔥 **Burn victims** — Plasma at red cells both need\n\n**Surgery Patients:**\n• 💊 **Heart surgery** — 2-6 units average\n• 🦴 **Orthopedic surgery** — Hip/knee replacements\n• 🏥 **Organ transplants** — Massive blood support\n• 🧠 **Brain surgery** — Precise blood levels critical\n\n**Cancer Patients:**\n• 🎗️ **Chemotherapy** — Destroys blood cells, need regular transfusions\n• 🩸 **Leukemia** — Blood cancer, constant need\n• 💉 **Bone marrow transplant** — Weeks of transfusion support\n\n**Chronic Disease Patients:**\n• 🩸 **Thalassemia** — Lifelong transfusion need (every 2-4 weeks!)\n• 🩸 **Sickle Cell Disease** — Regular transfusions\n• 🩸 **Hemophilia** — Clotting factor from plasma need\n• 🩸 **Aplastic Anemia** — Bone marrow not producing blood\n\n**Maternal at Newborn:**\n• 👶 **Premature babies** — Tiny amounts but critical\n• 🤰 **Pregnancy complications** — Placenta previa, eclampsia\n• 🩸 **Hemolytic disease newborn** — Blood type incompatibility\n\n**Dengue Patients (Sri Lanka Specific):**\n• 🦟 **Dengue hemorrhagic fever** — Platelet transfusions critical\n• Peak season = blood shortage worst time!\n\n**Statistics:**\n• 🌍 Every 2 seconds someone needs blood\n• 🏥 1 in 7 hospital patients need blood\n• 🩸 Average patient needs 3 units\n• 📊 Sri Lanka needs ~300,000 units annually\n\n**Your ONE donation save 3 lives!** Think about that — 8 minutes of your time = 3 people alive! 🦸🩸❤️"
+  },
+  {
+    "id": 70,
+    "category": "health",
+    "keywords": ["thalassemia", "genetic blood disorder", "sickle cell", "inherited"],
+    "question": "Thalassemia mokada? Blood donation related kohomat?",
+    "answer": "Thalassemia — Sri Lanka important topic! 🇱🇰\n\n**Thalassemia Mokada:**\n• Genetic blood disorder — inherited parents from\n• Body cannot produce enough healthy hemoglobin\n• Red blood cells break down faster than normal\n• Causes chronic anemia\n• **Sri Lanka — approximately 2,000+ patients!**\n\n**Types:**\n• **Thalassemia Minor (Trait)** — One gene affected, mild/no symptoms\n• **Thalassemia Major (Cooley's Anemia)** — Both genes affected, severe\n• **Thalassemia Intermedia** — Between minor at major\n\n**Can Thalassemia Patients Donate?**\n\n| Type | Can Donate? |\n|------|------------|\n| Thalassemia Trait (Minor) | ✅ Usually YES if hemoglobin adequate |\n| Thalassemia Major | ❌ NO — they RECEIVE blood |\n| Thalassemia Intermedia | ❌ Usually NO |\n\n**Thalassemia Major Patients Need:**\n• 🩸 Blood transfusions every **2-4 weeks** lifelong!\n• One patient needs **20-40 units per year**\n• 2,000 patients × 30 units = **60,000 units annually** in Sri Lanka!\n• Iron chelation therapy (remove excess iron)\n• Regular monitoring at medical care\n\n**How YOU Help:**\n• Donate regularly — thalassemia patients depend on YOU\n• One donation can support a child for 2-4 weeks\n• Register SmartBlood — emergency alerts thalassemia needs\n• Spread awareness — genetic testing before marriage\n\n**Prevention:**\n• Genetic counseling before marriage\n• Carrier testing (both parents trait = 25% chance major)\n• Prenatal testing available\n• SmartBlood awareness campaigns support\n\n**Thalassemia Trait Donors:**\n• If you have trait — hemoglobin may be slightly lower\n• Usually still meet minimum requirements\n• Excellent donors if levels adequate!\n• Your blood perfectly safe recipients for\n\nThalassemia patients heroes too — fighting every day! Your donation their lifeline! 🦸❤️🩸"
+  },
+  {
+    "id": 71,
+    "category": "general",
+    "keywords": ["voluntary", "paid", "replacement", "free", "money"],
+    "question": "Blood donation voluntary da? Pay karanawada?",
+    "answer": "Blood donation types at SmartBlood approach:\n\n**Types Blood Donation:**\n\n🟢 **Voluntary Non-Remunerated (VNRD):**\n• Donate freely without payment\n• No expectation return\n• WHO recommended BEST type!\n• **SmartBlood promote this!**\n• Safest blood — no financial motivation lie about health\n\n🟡 **Replacement Donation:**\n• Family/friends donate replace patient's used blood\n• Hospital request specific units\n• Less ideal — pressure donate could hide health issues\n\n🔴 **Paid/Commercial Donation:**\n• Donor receive money for blood\n• ❌ **NOT practiced Sri Lanka** — illegal!\n• ❌ **SmartBlood NOT support** — unsafe!\n• Higher risk infectious blood — desperate people donate\n\n**Why Voluntary Best:**\n• ✅ No incentive hide health problems\n• ✅ Healthier donor pool\n• ✅ More reliable, regular supply\n• ✅ WHO says safest blood source\n• ✅ 82 countries 100% voluntary — Sri Lanka working towards!\n\n**SmartBlood Motivation Instead Money:**\n• 🏆 XP points at badges — gamification!\n• 📊 Leaderboard recognition\n• 🎖️ Achievement certificates\n• 🦸 Community hero status\n• ❤️ Knowledge saving 3 lives!\n• 📢 Social media sharing bragging rights\n\n**Sri Lanka Goal:**\n• WHO target: 100% voluntary donations\n• Currently ~70% voluntary, 30% replacement\n• SmartBlood help increase voluntary percentage\n• Better engagement = more voluntary donors\n\n**Remember:**\n• Blood priceless — cannot buy or sell\n• Your time at health = gift of life\n• SmartBlood reward your generosity XP at recognition with\n\nVoluntary donation = safest blood = most lives saved! 🩸❤️🇱🇰"
+  },
+  {
+    "id": 72,
+    "category": "health",
+    "keywords": ["cold", "flu", "fever", "sick", "ill", "asamanee"],
+    "question": "Cold, flu, or fever have me donate karanaw puluwanada?",
+    "answer": "Common illnesses at blood donation:\n\n**Cold/Flu:**\n• ❌ **Cannot donate** while symptoms active\n• Sneezing, runny nose, cough, sore throat = defer\n• ⏳ Wait until **symptom-free 7 days**\n• Mild cold nearly over? Still wait until fully clear\n\n**Fever:**\n• ❌ **Cannot donate** with fever (above 37.5°C/99.5°F)\n• Fever indicates infection — blood may contain virus/bacteria\n• ⏳ Wait until **fever-free 7 days** without medication\n• Don't take paracetamol hide fever then donate!\n\n**Sore Throat:**\n• ❌ If sore throat with fever — defer\n• ⏳ If mild sore throat, no fever — wait until resolved\n• Could indicate strep infection — needs treatment first\n\n**Stomach Bug/Gastro:**\n• ❌ Vomiting or diarrhea — cannot donate\n• ⏳ Wait **48 hours** after symptoms stop\n• Dehydration risk — body need recover fluid\n\n**Ear Infection:**\n• ❌ Active infection — defer\n• ⏳ Wait until antibiotics complete + 24 hours\n\n**Why These Defer:**\n• 🦠 Infection blood through transmit possible\n• 🤒 Body already fighting — donation add stress\n• 💧 Often dehydrated — blood loss worsen\n• 🩸 White blood cell count elevated — blood quality affected\n• 💊 Medications interact donation process with\n\n**Tips:**\n• Reschedule appointment SmartBlood la easily\n• No penalty sick cancellations!\n• Better recover fully than risk\n• Come back when 100% healthy!\n\n**SmartBlood Sick Policy:**\n• Easy reschedule button Dashboard la\n• No reliability score penalty illness for\n• AI reschedule suggest next available slot\n• Health ALWAYS priority over donation!\n\nGet well first, then save lives! 🤧→💪→🩸"
+  },
+  {
+    "id": 73,
+    "category": "health",
+    "keywords": ["fasting", "ramadan", "poya", "religious fasting", "empty stomach"],
+    "question": "Fasting karanaw me donate karanaw puluwanada?",
+    "answer": "Fasting at blood donation — important consideration! 🕌🛕\n\n**General Rule:**\n• ❌ **Empty stomach donate karanaw recommend naa**\n• Blood sugar drop + blood loss = fainting risk!\n• Must eat something within 4 hours before donation\n\n**During Ramadan:**\n• ⏳ **Best donate AFTER Iftar** (evening meal)\n• After eating at hydrating — body ready\n• ❌ Don't donate while fasting — dehydration risk\n• Alternative: Donate during non-fasting days\n• Some scholars say blood donation not break fast — but health priority!\n\n**During Poya/Buddhist Fasting:**\n• If observing 8 precepts (full day fast) — donate different day\n• If partial fast (eating before noon) — donate morning after meal\n• Body health more important — Buddha taught middle path!\n\n**Hindu Fasting (Vratham):**\n• If complete fast — donate different day\n• If fruit/liquid fast — may be OK if adequate nutrition\n• Consult your spiritual leader at doctor\n\n**Christian Fasting (Lent):**\n• Usually partial fast — reduced meals OK\n• If adequate nutrition — can donate\n• Hydration maintained — usually fine\n\n**Tips Religious Fasters:**\n• 📅 Plan donations around fasting schedule\n• 🍽️ Eat well before at after fasting period\n• 💧 Extra hydration non-fasting hours\n• 📱 SmartBlood la appointment choose timing carefully\n• 🙏 Saving lives = great spiritual merit!\n\n**SmartBlood Support:**\n• Calendar integrate with religious holidays\n• AI suggest best donation timing\n• Flexible rescheduling fasting periods\n• Cultural sensitivity built into system\n\nSpiritual merit + saving lives = beautiful combination! 🙏🩸"
+  },
+  {
+    "id": 74,
+    "category": "donation_process",
+    "keywords": ["donation certificate", "proof", "document", "record"],
+    "question": "Donation certificate or proof labenwada?",
+    "answer": "Donation documentation SmartBlood la:\n\n**After Every Donation:**\n\n📄 **Digital Donation Certificate:**\n• Automatically generated SmartBlood la\n• Your name, blood type, donation date\n• Hospital name at location\n• Unique certificate number\n• Download PDF anytime Dashboard from!\n\n📊 **Donation Record:**\n• Complete history all donations\n• Dates, locations, blood types\n• Hemoglobin readings each time\n• Volume donated\n• Accessible Dashboard → History la\n\n🏆 **Achievement Certificates:**\n• Milestone certificates (5th, 10th, 25th, 50th donation)\n• Special event certificates (World Blood Donor Day)\n• Campaign participation certificates\n• Shareable social media!\n\n📱 **Digital Donor Card:**\n• SmartBlood digital donor ID\n• QR code quick check-in\n• Blood type at donor number\n• Emergency contact information\n• Show on phone — no physical card needed!\n\n**Uses Donation Certificate:**\n• 📋 Personal health record\n• 🏢 Employer — some give donation leave\n• 🎓 School/university — community service credit\n• 🏥 Medical records\n• 📱 Social media share — inspire others!\n\n**SmartBlood Reports:**\n• Hospitals generate automated reports\n• Monthly donation statistics PDF\n• Annual donor recognition lists\n• Campaign success reports\n\n**Legacy Record:**\n• Lifetime donation history maintained\n• Total lives saved calculation\n• Cumulative volume donated\n• Badge at XP progression timeline\n\nYour donations documented forever — your legacy of saving lives! 📜🩸"
+  },
+  {
+    "id": 75,
+    "category": "health",
+    "keywords": ["bone marrow", "stem cell", "marrow donation", "stem cell donor"],
+    "question": "Bone marrow donation mokada? Blood donation ekata differ kohomat?",
+    "answer": "Bone marrow at stem cell donation — different from blood donation! 🦴\n\n**What Is Bone Marrow:**\n• Spongy tissue bones inside\n• Produces all blood cells (red, white, platelets)\n• Like blood cell factory!\n\n**Bone Marrow vs Blood Donation:**\n\n| Feature | Blood Donation | Bone Marrow |\n|---------|---------------|-------------|\n| **Time** | 8-10 minutes | 1-2 hours (collection) |\n| **Frequency** | Every 56-84 days | Usually once |\n| **Recovery** | 24-48 hours | 1-2 weeks |\n| **Process** | Simple needle draw | Surgery or apheresis |\n| **Pain** | Minimal | Moderate (hip soreness) |\n| **Matching** | Blood type match | HLA tissue match |\n| **Need** | Common | Rare specific match |\n\n**Two Collection Methods:**\n\n🦴 **Bone Marrow Harvest (Traditional):**\n• General anesthesia under\n• Needle inserted hip bone (pelvis) into\n• Marrow extracted — liquid form\n• 1-2 hour procedure\n• Hospital stay 1-2 days\n• Hip sore 1-2 weeks\n• Marrow regenerate 4-6 weeks\n\n💉 **Peripheral Blood Stem Cell (PBSC):**\n• Injections 5 days before (G-CSF) — stimulate stem cells\n• Apheresis machine collect stem cells blood from\n• Like platelet donation process\n• 4-6 hour procedure\n• No surgery needed!\n• Recovery few days\n\n**Who Needs Bone Marrow:**\n• Leukemia patients\n• Lymphoma patients\n• Aplastic anemia\n• Sickle cell disease (cure!)\n• Thalassemia major (cure!)\n• Other blood cancers\n\n**How Register Bone Marrow Donor:**\n• Simple blood test or cheek swab\n• Added to donor registry\n• If matched with patient — contacted\n• Can say no at any time\n• Saving life — ultimate gift! 🎁\n\n**SmartBlood Connection:**\n• SmartBlood focus blood donation primarily\n• But awareness spread bone marrow donation about\n• Links to national bone marrow registry\n• Both types donation = saving lives!\n\nBlood donation = 8 minutes hero. Bone marrow = lifetime hero! 🦸💎"
+  },
+  {
+    "id": 76,
+    "category": "general",
+    "keywords": ["blood donation sri lanka", "national blood", "nbts", "sri lanka blood service"],
+    "question": "Sri Lanka blood donation situation kohomat?",
+    "answer": "Sri Lanka blood donation landscape — current situation: 🇱🇰\n\n**National Blood Transfusion Service (NBTS):**\n• Government authority blood services\n• 92 blood banks islandwide\n• Collect approximately **450,000 units** annually\n• Target: 500,000+ units needed!\n\n**Current Statistics:**\n• 📊 Donation rate: ~18 donations per 1,000 population\n• 🎯 WHO recommended: 10+ per 1,000 (Sri Lanka exceed!)\n• 📈 Growing but still gaps certain areas\n• 🏥 Some rural hospitals chronic shortage face\n\n**Blood Type Distribution Sri Lanka:**\n\n| Blood Type | Percentage |\n|-----------|------------|\n| O+ | 36.5% |\n| B+ | 24.1% |\n| A+ | 22.8% |\n| AB+ | 7.2% |\n| O- | 4.2% |\n| B- | 2.8% |\n| A- | 1.8% |\n| AB- | 0.6% |\n\n**Challenges:**\n• 📋 Manual paper-based systems (SmartBlood solve!)\n• 🏙️ Urban areas more donations than rural\n• ⏰ Seasonal shortages (dengue season, holidays)\n• 🗑️ 5-8% blood wasted expiry due\n• 📱 No real-time coordination hospitals between\n• 🚫 Myths at misconceptions prevent donation\n\n**SmartBlood Solutions:**\n• 🤖 AI replace manual systems\n• 📊 Real-time stock visibility nationwide\n• 🆘 Emergency dispatch match donors instantly\n• 📈 Forecasting prevent shortages\n• 🔄 Hospital exchange reduce waste\n• 🎮 Gamification increase engagement\n• 📢 Campaigns target specific needs\n\n**Sri Lanka Achievements:**\n• ✅ 100% voluntary at replacement (no paid)\n• ✅ 100% blood tested (HIV, Hep B/C, Syphilis)\n• ✅ Growing young donor population\n• ✅ Strong mobile blood drive culture\n\n**SmartBlood Vision:**\n• Transform Sri Lanka → **World-class digital blood service**\n• Zero wastage, zero shortage, maximum lives saved!\n• Every hospital connected, every donor engaged\n• AI-powered, data-driven, life-saving! 🎯\n\nSri Lanka already great — SmartBlood make it world's BEST! 🇱🇰🩸🏆"
+  }
+]

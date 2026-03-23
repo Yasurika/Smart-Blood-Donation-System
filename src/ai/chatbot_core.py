@@ -26,7 +26,7 @@ from dataclasses import dataclass
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# STEP 1: TYPE DEFINITIONS - Easy to understand what data looks like
+# STEP 1: TYPE DEFINITIONS - It's easy to understand what data looks like
 # ═══════════════════════════════════════════════════════════════════════════════
 
 @dataclass

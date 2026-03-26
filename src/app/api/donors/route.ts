@@ -25,7 +25,8 @@ export async function GET(request: NextRequest) {
     if (rateLimited) return rateLimited;
 
     try {
-        const authResult = await requireAuth(['hospital', 'admin']);
+        // leaderboard is visible to all authenticated users including donors
+        const authResult = await requireAuth(['donor', 'hospital', 'admin']);
         if ('error' in authResult) return authResult.error;
 
         await dbConnect();
@@ -34,6 +35,7 @@ export async function GET(request: NextRequest) {
         const { searchParams } = new URL(request.url);
         const bloodType = searchParams.get('bloodType');
         const search = searchParams.get('search');
+        const sort = searchParams.get('sort') || 'xp';
 
         const filter: Record<string, unknown> = { isActive: true, role: 'donor' };
         if (bloodType) filter.bloodType = bloodType;
@@ -46,8 +48,18 @@ export async function GET(request: NextRequest) {
             ];
         }
 
+        const sortOptions: Record<string, number> = {};
+        if (sort.includes('xp')) sortOptions.xp = -1;
+        else if (sort.includes('totalDonations')) sortOptions.totalDonations = -1;
+        else if (sort.includes('createdAt')) sortOptions.createdAt = -1;
+        else sortOptions.createdAt = -1;
+
         const [users, total] = await Promise.all([
-            User.find(filter).select('-password -failedLoginAttempts -lockedUntil').sort({ createdAt: -1 }).skip(skip).limit(limit),
+            User.find(filter)
+                .select('-password -failedLoginAttempts -lockedUntil')
+                .sort(sortOptions)
+                .skip(skip)
+                .limit(limit),
             User.countDocuments(filter),
         ]);
 

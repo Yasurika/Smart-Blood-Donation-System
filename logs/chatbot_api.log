@@ -70,3 +70,25 @@
 [2026-03-22 22:30:43] INFO:   - GET  http://127.0.0.1:5000/health
 [2026-03-22 22:30:43] INFO:   - GET  http://127.0.0.1:5000/stats
 [2026-03-22 22:30:43] INFO: Press Ctrl+C to shutdown
+[2026-03-23 09:02:45] INFO: Initializing SmartBlood Chatbot...
+[2026-03-23 09:02:45] INFO: Loaded en dataset: 120 Q&A pairs
+[2026-03-23 09:02:45] INFO: Loaded si dataset: 170 Q&A pairs
+[2026-03-23 09:02:45] INFO: Loaded singlish dataset: 76 Q&A pairs
+[2026-03-23 09:02:45] INFO: Starting chatbot server on 127.0.0.1:5000
+[2026-03-23 09:02:45] INFO: Endpoints:
+[2026-03-23 09:02:45] INFO:   - POST http://127.0.0.1:5000/chat
+[2026-03-23 09:02:45] INFO:   - GET  http://127.0.0.1:5000/health
+[2026-03-23 09:02:45] INFO:   - GET  http://127.0.0.1:5000/stats
+[2026-03-23 09:02:45] INFO: Press Ctrl+C to shutdown
+[2026-03-23 09:02:52] INFO: Shutting down...
+[2026-03-23 09:02:52] INFO: Server stopped gracefully
+[2026-03-23 09:03:20] INFO: Initializing SmartBlood Chatbot...
+[2026-03-23 09:03:20] INFO: Loaded en dataset: 120 Q&A pairs
+[2026-03-23 09:03:20] INFO: Loaded si dataset: 170 Q&A pairs
+[2026-03-23 09:03:20] INFO: Loaded singlish dataset: 76 Q&A pairs
+[2026-03-23 09:03:20] INFO: Starting chatbot server on 127.0.0.1:5000
+[2026-03-23 09:03:20] INFO: Endpoints:
+[2026-03-23 09:03:20] INFO:   - POST http://127.0.0.1:5000/chat
+[2026-03-23 09:03:20] INFO:   - GET  http://127.0.0.1:5000/health
+[2026-03-23 09:03:20] INFO:   - GET  http://127.0.0.1:5000/stats
+[2026-03-23 09:03:20] INFO: Press Ctrl+C to shutdown

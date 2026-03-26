@@ -14,7 +14,8 @@ import {
 // GET single donor
 export async function GET(request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
     try {
-        const authResult = await requireAuth(['hospital', 'admin']);
+        // Allow donors to view their own profile as well as hospital/admin roles.
+        const authResult = await requireAuth(['donor', 'hospital', 'admin']);
         if ('error' in authResult) return authResult.error;
 
         await dbConnect();
@@ -31,7 +32,8 @@ export async function GET(request: NextRequest, { params }: { params: Promise<{ 
 // UPDATE donor
 export async function PUT(request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
     try {
-        const authResult = await requireAuth(['hospital', 'admin']);
+        // Allow donors to update their own profile as well as hospital/admin roles.
+        const authResult = await requireAuth(['donor', 'hospital', 'admin']);
         if ('error' in authResult) return authResult.error;
 
         await dbConnect();
